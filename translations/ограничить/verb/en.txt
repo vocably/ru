@@ -1,0 +1,4 @@
+limit
+restrict
+confine
+curtail

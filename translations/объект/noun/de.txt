@@ -1,0 +1,4 @@
+objekt
+gegenstand
+ziel
+anlage

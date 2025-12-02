@@ -1,0 +1,4 @@
+bandits
+robbers
+brigands
+marauders

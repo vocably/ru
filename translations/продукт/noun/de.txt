@@ -1,0 +1,3 @@
+produkt
+erzeugnis
+ware

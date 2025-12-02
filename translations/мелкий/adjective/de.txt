@@ -1,0 +1,5 @@
+klein
+fein
+flach
+gering
+oberflächlich

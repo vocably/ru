@@ -1,0 +1,4 @@
+produkte
+erzeugnisse
+waren
+artikel

@@ -1,0 +1,5 @@
+cabin
+booth
+cockpit
+cubicle
+compartment

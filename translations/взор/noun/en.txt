@@ -1,0 +1,4 @@
+gaze
+look
+view
+glance

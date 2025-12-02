@@ -1,0 +1,5 @@
+salon
+parlor
+lounge
+shop
+cabin

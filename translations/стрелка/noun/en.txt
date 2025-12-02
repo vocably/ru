@@ -1,0 +1,5 @@
+arrow
+hand
+pointer
+spike
+indicator

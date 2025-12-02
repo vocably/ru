@@ -1,0 +1,4 @@
+bandit
+robber
+brigand
+marauder

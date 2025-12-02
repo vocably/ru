@@ -1,0 +1,4 @@
+cottage
+cabin
+small house
+hut

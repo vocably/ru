@@ -1,0 +1,4 @@
+hut
+shelter
+shack
+lean-to
