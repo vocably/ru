@@ -1,0 +1,4 @@
+Gesicht
+Person
+Antlitz
+Mensch

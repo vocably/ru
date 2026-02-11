@@ -1,0 +1,4 @@
+die Summe
+der Betrag
+die Gesamtsumme
+die Geldsumme

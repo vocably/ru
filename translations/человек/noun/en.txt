@@ -1,0 +1,5 @@
+person
+human
+man
+individual
+woman

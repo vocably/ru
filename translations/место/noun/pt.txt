@@ -1,0 +1,5 @@
+lugar
+local
+sítio
+posição
+vaga

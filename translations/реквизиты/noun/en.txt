@@ -1,0 +1,5 @@
+details
+particulars
+credentials
+props
+properties

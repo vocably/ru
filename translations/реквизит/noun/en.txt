@@ -1,0 +1,5 @@
+prop
+props
+details
+requisites
+information

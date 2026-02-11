@@ -1,0 +1,7 @@
+frames
+frameworks
+carcasses
+skeletons
+bases
+foundations
+substructures

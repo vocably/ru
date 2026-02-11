@@ -1,0 +1,4 @@
+apartment
+flat
+dwelling
+residence

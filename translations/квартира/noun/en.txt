@@ -1,0 +1,5 @@
+apartment
+flat
+lodging
+quarters
+digs

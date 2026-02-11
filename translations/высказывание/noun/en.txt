@@ -1,0 +1,3 @@
+utterance
+statement
+proposition
