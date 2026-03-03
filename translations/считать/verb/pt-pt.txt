@@ -1,0 +1,3 @@
+contar
+considerar
+achar

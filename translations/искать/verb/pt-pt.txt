@@ -1,0 +1,3 @@
+procurar
+buscar
+tentar encontrar
