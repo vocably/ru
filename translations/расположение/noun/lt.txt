@@ -1,0 +1,1 @@
+["vieta","išdėstymas","palankumas","nuotaika"]

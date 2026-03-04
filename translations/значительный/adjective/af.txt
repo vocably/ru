@@ -1,0 +1,1 @@
+["aansienlik","belangrik","beduidend"]

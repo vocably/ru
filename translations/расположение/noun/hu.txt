@@ -1,0 +1,1 @@
+["elhelyezkedés","elrendezés","hajlam","hangulat"]

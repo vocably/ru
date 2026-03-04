@@ -1,0 +1,1 @@
+["beliggenhet","plassering","sympati","humør"]

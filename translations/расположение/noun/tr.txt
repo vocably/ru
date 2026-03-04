@@ -1,0 +1,1 @@
+["konum","düzen","eğilim","ruh hali"]

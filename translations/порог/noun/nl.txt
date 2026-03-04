@@ -1,0 +1,1 @@
+["drempel","stroomversnelling","drempelwaarde"]
