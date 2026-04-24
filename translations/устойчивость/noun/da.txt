@@ -1,1 +1,2 @@
-["stabilitet","modstand"]
+stabilitet
+modstand

@@ -1,1 +1,4 @@
-["posizione","disposizione","inclinazione","umore"]
+posizione
+disposizione
+inclinazione
+umore

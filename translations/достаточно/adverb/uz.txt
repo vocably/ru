@@ -1,1 +1,2 @@
-["yetarli","anchagina"]
+yetarli
+anchagina

@@ -1,1 +1,2 @@
-["risultatu","esitu"]
+risultatu
+esitu

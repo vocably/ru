@@ -1,1 +1,3 @@
-["dejlig","vidunderlig","fortryllende"]
+dejlig
+vidunderlig
+fortryllende

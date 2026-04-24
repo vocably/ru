@@ -1,1 +1,2 @@
-["ekilib","rezistans"]
+ekilib
+rezistans

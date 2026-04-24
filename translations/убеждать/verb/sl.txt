@@ -1,1 +1,2 @@
-["prepričati","prepričevati"]
+prepričati
+prepričevati

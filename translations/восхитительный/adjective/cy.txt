@@ -1,1 +1,3 @@
-["hyfryd","bendigedig","rhagorol"]
+hyfryd
+bendigedig
+rhagorol

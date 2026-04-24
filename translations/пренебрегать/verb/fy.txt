@@ -1,1 +1,2 @@
-["negearje","ferwaarleazgje"]
+negearje
+ferwaarleazgje

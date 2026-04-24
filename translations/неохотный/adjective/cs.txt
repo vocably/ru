@@ -1,1 +1,2 @@
-["neochotný","zdrženlivý"]
+neochotný
+zdrženlivý

@@ -1,1 +1,2 @@
-["yavaş yavaş","aşamalı olarak"]
+yavaş yavaş
+aşamalı olarak

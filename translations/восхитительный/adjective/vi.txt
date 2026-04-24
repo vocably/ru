@@ -1,1 +1,3 @@
-["tuyệt vời","ngon lành","đẹp đẽ"]
+tuyệt vời
+ngon lành
+đẹp đẽ

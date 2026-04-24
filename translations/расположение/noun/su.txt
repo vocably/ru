@@ -1,1 +1,4 @@
-["tempat","tata","rasa","sikep"]
+tempat
+tata
+rasa
+sikep

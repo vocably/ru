@@ -1,1 +1,3 @@
-["duba","yi la'akari","gani"]
+duba
+yi la'akari
+gani

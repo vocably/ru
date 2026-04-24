@@ -1,1 +1,2 @@
-["integridad","unidad"]
+integridad
+unidad

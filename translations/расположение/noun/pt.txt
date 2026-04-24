@@ -1,1 +1,4 @@
-["localização","disposição","inclinação","humor"]
+localização
+disposição
+inclinação
+humor

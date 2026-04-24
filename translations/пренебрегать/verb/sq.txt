@@ -1,1 +1,2 @@
-["përçmoj","neglizhoj"]
+përçmoj
+neglizhoj

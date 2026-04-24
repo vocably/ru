@@ -1,1 +1,2 @@
-["droimneach","leisceamhail"]
+droimneach
+leisceamhail

@@ -1,1 +1,2 @@
-["neglect","disregard"]
+neglect
+disregard

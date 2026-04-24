@@ -1,1 +1,3 @@
-["značajan","velik","izražajan"]
+značajan
+velik
+izražajan

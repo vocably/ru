@@ -1,1 +1,3 @@
-["tarkastella","käsitellä","pitää"]
+tarkastella
+käsitellä
+pitää

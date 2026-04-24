@@ -1,1 +1,2 @@
-["tagajärg","järelm"]
+tagajärg
+järelm

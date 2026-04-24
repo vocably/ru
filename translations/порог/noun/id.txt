@@ -1,1 +1,3 @@
-["ambang","jeram","batas"]
+ambang
+jeram
+batas

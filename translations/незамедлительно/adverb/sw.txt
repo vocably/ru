@@ -1,1 +1,2 @@
-["mara moja","papo hapo"]
+mara moja
+papo hapo

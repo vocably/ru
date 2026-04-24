@@ -1,1 +1,2 @@
-["kwemeza","kuyobora"]
+kwemeza
+kuyobora

@@ -1,1 +1,2 @@
-["mahatoky","mafy loha"]
+mahatoky
+mafy loha

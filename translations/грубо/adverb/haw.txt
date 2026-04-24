@@ -1,1 +1,3 @@
-["ʻino","kahi","mānoanoa"]
+ʻino
+kahi
+mānoanoa

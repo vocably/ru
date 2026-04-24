@@ -1,1 +1,4 @@
-["whakatapu","tuku","whakaū","whakauru"]
+whakatapu
+tuku
+whakaū
+whakauru

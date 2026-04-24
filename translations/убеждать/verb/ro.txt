@@ -1,1 +1,2 @@
-["a convinge","a îndupleca"]
+a convinge
+a îndupleca

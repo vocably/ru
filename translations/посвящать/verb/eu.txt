@@ -1,1 +1,4 @@
-["eskaini","dedikatu","sagartu","kontsakratu"]
+eskaini
+dedikatu
+sagartu
+kontsakratu

@@ -1,1 +1,4 @@
-["bagʻishlamoq","ajratmoq","maʼlum qilmoq","kiritmoq"]
+bagʻishlamoq
+ajratmoq
+maʼlum qilmoq
+kiritmoq

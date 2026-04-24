@@ -1,1 +1,4 @@
-["poloha","rozmístění","náklonnost","nálada"]
+poloha
+rozmístění
+náklonnost
+nálada

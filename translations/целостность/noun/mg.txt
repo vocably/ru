@@ -1,1 +1,2 @@
-["feno","tsy vaky"]
+feno
+tsy vaky

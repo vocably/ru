@@ -1,1 +1,3 @@
-["mempertimbangkan","memeriksa","melihat"]
+mempertimbangkan
+memeriksa
+melihat

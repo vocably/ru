@@ -1,1 +1,2 @@
-["bütövlük","tamlıq"]
+bütövlük
+tamlıq

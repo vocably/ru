@@ -1,1 +1,2 @@
-["sekas","iznākums"]
+sekas
+iznākums

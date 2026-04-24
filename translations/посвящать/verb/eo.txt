@@ -1,1 +1,4 @@
-["dediĉi","konsekri","inici","ordini"]
+dediĉi
+konsekri
+inici
+ordini

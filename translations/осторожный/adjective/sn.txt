@@ -1,1 +1,2 @@
-["kungwarira","chenjerera"]
+kungwarira
+chenjerera

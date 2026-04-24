@@ -1,1 +1,2 @@
-["osotasun","batasun"]
+osotasun
+batasun

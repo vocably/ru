@@ -1,1 +1,2 @@
-["gemblengan","kaonjonan"]
+gemblengan
+kaonjonan

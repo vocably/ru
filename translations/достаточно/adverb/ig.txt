@@ -1,1 +1,2 @@
-["ezu","nke oma"]
+ezu
+nke oma

@@ -1,1 +1,4 @@
-["vendndodhje","pozicion","pëlqim","gjendje shpirtërore"]
+vendndodhje
+pozicion
+pëlqim
+gjendje shpirtërore

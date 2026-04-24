@@ -1,1 +1,2 @@
-["degganaansho","istaagid"]
+degganaansho
+istaagid

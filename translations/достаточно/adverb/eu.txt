@@ -1,1 +1,2 @@
-["nahikoa","aski"]
+nahikoa
+aski

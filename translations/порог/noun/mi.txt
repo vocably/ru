@@ -1,1 +1,3 @@
-["paepae","rere","tomokanga"]
+paepae
+rere
+tomokanga

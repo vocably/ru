@@ -1,1 +1,2 @@
-["ubunye","ingqibelelo"]
+ubunye
+ingqibelelo

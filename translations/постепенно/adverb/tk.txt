@@ -1,1 +1,2 @@
-["kem-kemden","az-azdan"]
+kem-kemden
+az-azdan

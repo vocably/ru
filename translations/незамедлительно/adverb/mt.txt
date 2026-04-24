@@ -1,1 +1,2 @@
-["minnufih","mill-ewwel"]
+minnufih
+mill-ewwel

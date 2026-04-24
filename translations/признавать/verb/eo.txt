@@ -1,1 +1,3 @@
-["agnoski","konfesi","rekoni"]
+agnoski
+konfesi
+rekoni

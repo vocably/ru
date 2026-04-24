@@ -1,1 +1,3 @@
-["amohela","dumela","tseba"]
+amohela
+dumela
+tseba

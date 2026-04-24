@@ -1,1 +1,2 @@
-["riżultat","eżitu"]
+riżultat
+eżitu

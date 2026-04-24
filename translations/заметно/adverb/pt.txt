@@ -1,1 +1,2 @@
-["notavelmente","consideravelmente"]
+notavelmente
+consideravelmente

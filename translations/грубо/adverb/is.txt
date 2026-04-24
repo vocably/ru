@@ -1,1 +1,3 @@
-["gróflega","ókurteislega","nokkurn veginn"]
+gróflega
+ókurteislega
+nokkurn veginn

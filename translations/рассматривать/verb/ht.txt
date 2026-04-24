@@ -1,1 +1,3 @@
-["egzamine","konsidere","gade"]
+egzamine
+konsidere
+gade

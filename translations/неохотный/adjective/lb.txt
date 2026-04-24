@@ -1,1 +1,2 @@
-["ongern","net gäer"]
+ongern
+net gäer

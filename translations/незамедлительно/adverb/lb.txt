@@ -1,1 +1,2 @@
-["direkt","onmëttelbar"]
+direkt
+onmëttelbar

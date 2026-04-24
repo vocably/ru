@@ -1,1 +1,3 @@
-["tanımak","kabul etmek","onaylamak"]
+tanımak
+kabul etmek
+onaylamak

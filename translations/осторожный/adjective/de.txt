@@ -1,1 +1,2 @@
-["vorsichtig","behutsam"]
+vorsichtig
+behutsam

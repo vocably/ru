@@ -1,1 +1,2 @@
-["encam","netîce"]
+encam
+netîce

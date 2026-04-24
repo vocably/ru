@@ -1,1 +1,3 @@
-["admirab","supèb","ekselan"]
+admirab
+supèb
+ekselan

@@ -1,1 +1,4 @@
-["joylashuv","o'rin","mayl","holat"]
+joylashuv
+o'rin
+mayl
+holat

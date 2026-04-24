@@ -1,1 +1,2 @@
-["pusiausvyra","stabilumas"]
+pusiausvyra
+stabilumas

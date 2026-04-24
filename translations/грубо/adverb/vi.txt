@@ -1,1 +1,3 @@
-["thô lỗ","xấp xỉ","thô sơ"]
+thô lỗ
+xấp xỉ
+thô sơ

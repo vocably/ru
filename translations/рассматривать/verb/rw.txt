@@ -1,1 +1,3 @@
-["kureba neza","gusuzuma","kubona"]
+kureba neza
+gusuzuma
+kubona

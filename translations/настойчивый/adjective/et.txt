@@ -1,1 +1,2 @@
-["järjekindel","visa"]
+järjekindel
+visa

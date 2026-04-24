@@ -1,1 +1,4 @@
-["położenie","rozmieszczenie","usposobienie","nastrój"]
+położenie
+rozmieszczenie
+usposobienie
+nastrój

@@ -1,1 +1,2 @@
-["tarpeeksi","melko"]
+tarpeeksi
+melko

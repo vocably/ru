@@ -1,1 +1,3 @@
-["grubiańsko","z grubsza","topornie"]
+grubiańsko
+z grubsza
+topornie

@@ -1,1 +1,3 @@
-["tokonana","riana","fetra"]
+tokonana
+riana
+fetra

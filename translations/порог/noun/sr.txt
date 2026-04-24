@@ -1,1 +1,3 @@
-["праг","brzaci","prag"]
+праг
+brzaci
+prag

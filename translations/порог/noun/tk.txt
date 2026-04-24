@@ -1,1 +1,3 @@
-["bosaga","erkana","kütek"]
+bosaga
+erkana
+kütek

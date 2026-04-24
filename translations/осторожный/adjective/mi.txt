@@ -1,1 +1,2 @@
-["tūpato","whakaaro"]
+tūpato
+whakaaro

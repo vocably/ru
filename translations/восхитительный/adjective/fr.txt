@@ -1,1 +1,3 @@
-["délicieux","ravissant","admirable"]
+délicieux
+ravissant
+admirable

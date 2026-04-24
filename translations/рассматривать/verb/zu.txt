@@ -1,1 +1,3 @@
-["ukubuka","ukucubungula","ukuthatha"]
+ukubuka
+ukucubungula
+ukuthatha

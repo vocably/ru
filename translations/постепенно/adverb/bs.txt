@@ -1,1 +1,2 @@
-["postepeno","malo-pomalo"]
+postepeno
+malo-pomalo

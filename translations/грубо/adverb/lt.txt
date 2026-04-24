@@ -1,1 +1,3 @@
-["šiurkščiai","apytiksliai","grubiai"]
+šiurkščiai
+apytiksliai
+grubiai

@@ -1,1 +1,2 @@
-["sefydlogrwydd","cynaliadwyedd"]
+sefydlogrwydd
+cynaliadwyedd

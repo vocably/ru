@@ -1,1 +1,3 @@
-["znaten","pomemben","izrazen"]
+znaten
+pomemben
+izrazen

@@ -1,1 +1,3 @@
-["-hle kakhulu","-mnandi","-nomtsalane"]
+-hle kakhulu
+-mnandi
+-nomtsalane

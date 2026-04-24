@@ -1,1 +1,4 @@
-["lokaasje","pleatsing","oanstriid","sin"]
+lokaasje
+pleatsing
+oanstriid
+sin

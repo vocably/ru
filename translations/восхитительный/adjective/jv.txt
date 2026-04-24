@@ -1,1 +1,3 @@
-["ngédab-édabi","ngéram-érami","éndah"]
+ngédab-édabi
+ngéram-érami
+éndah

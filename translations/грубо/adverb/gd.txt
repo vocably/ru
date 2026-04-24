@@ -1,1 +1,3 @@
-["gu grad","mu thimcheall","gu neo-eòlach"]
+gu grad
+mu thimcheall
+gu neo-eòlach

@@ -1,1 +1,2 @@
-["integritet","cjelovitost"]
+integritet
+cjelovitost

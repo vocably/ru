@@ -1,1 +1,2 @@
-["piisavalt","küllalt"]
+piisavalt
+küllalt

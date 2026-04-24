@@ -1,1 +1,3 @@
-["grossièrement","rudement","brutalement"]
+grossièrement
+rudement
+brutalement

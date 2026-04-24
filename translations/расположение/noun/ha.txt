@@ -1,1 +1,4 @@
-["wuri","tsari","so","halin rai"]
+wuri
+tsari
+so
+halin rai

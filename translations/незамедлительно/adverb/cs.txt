@@ -1,1 +1,2 @@
-["okamžitě","ihned"]
+okamžitě
+ihned

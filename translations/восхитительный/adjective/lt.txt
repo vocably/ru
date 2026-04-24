@@ -1,1 +1,3 @@
-["žavus","nuostabus","puikus"]
+žavus
+nuostabus
+puikus

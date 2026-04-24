@@ -1,1 +1,2 @@
-["pagrįsti","grįsti"]
+pagrįsti
+grįsti

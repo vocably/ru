@@ -1,1 +1,3 @@
-["grubo","otprilike","nespretno"]
+grubo
+otprilike
+nespretno

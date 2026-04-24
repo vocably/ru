@@ -1,1 +1,2 @@
-["posledica","izid"]
+posledica
+izid

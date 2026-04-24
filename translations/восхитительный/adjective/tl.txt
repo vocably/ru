@@ -1,1 +1,3 @@
-["kahanga-hanga","kaibig-ibig","napakaganda"]
+kahanga-hanga
+kaibig-ibig
+napakaganda

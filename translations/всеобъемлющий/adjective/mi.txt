@@ -1,1 +1,2 @@
-["whānui","katoa"]
+whānui
+katoa

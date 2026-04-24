@@ -1,1 +1,2 @@
-["konbentzitu","sinetsarazi"]
+konbentzitu
+sinetsarazi

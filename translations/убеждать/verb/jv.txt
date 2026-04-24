@@ -1,1 +1,2 @@
-["nggepok","ngrayu"]
+nggepok
+ngrayu

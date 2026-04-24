@@ -1,1 +1,2 @@
-["postupně","pozvolna"]
+postupně
+pozvolna

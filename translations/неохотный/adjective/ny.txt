@@ -1,1 +1,2 @@
-["osafuna","okakamizidwa"]
+osafuna
+okakamizidwa

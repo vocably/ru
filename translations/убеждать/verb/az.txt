@@ -1,1 +1,2 @@
-["inandırmaq","təlqin etmək"]
+inandırmaq
+təlqin etmək

@@ -1,1 +1,2 @@
-["vientisumas","integralumas"]
+vientisumas
+integralumas

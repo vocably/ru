@@ -1,1 +1,3 @@
-["heyranedici","valehdedici","məftunedici"]
+heyranedici
+valehdedici
+məftunedici

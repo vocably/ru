@@ -1,1 +1,2 @@
-["přesvědčovat","přemlouvat"]
+přesvědčovat
+přemlouvat

@@ -1,1 +1,2 @@
-["seuil","rapide"]
+seuil
+rapide

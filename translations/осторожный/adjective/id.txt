@@ -1,1 +1,2 @@
-["hati-hati","waspada"]
+hati-hati
+waspada

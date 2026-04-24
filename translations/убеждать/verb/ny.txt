@@ -1,1 +1,2 @@
-["kukopa","kutsimikizira"]
+kukopa
+kutsimikizira

@@ -1,1 +1,3 @@
-["pukuriri","tata","māhorahora"]
+pukuriri
+tata
+māhorahora

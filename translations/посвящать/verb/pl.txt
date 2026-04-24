@@ -1,1 +1,4 @@
-["poświęcać","dedykować","wtajemniczać","ordynować"]
+poświęcać
+dedykować
+wtajemniczać
+ordynować

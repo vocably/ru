@@ -1,1 +1,2 @@
-["bêdil","nekam"]
+bêdil
+nekam

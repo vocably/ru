@@ -1,1 +1,2 @@
-["zokwanira","mokwanira"]
+zokwanira
+mokwanira

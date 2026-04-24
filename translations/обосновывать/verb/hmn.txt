@@ -1,1 +1,2 @@
-["tseem","txheej"]
+tseem
+txheej

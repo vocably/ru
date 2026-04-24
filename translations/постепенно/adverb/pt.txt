@@ -1,1 +1,2 @@
-["gradualmente","pouco a pouco"]
+gradualmente
+pouco a pouco

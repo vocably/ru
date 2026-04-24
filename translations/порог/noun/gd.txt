@@ -1,1 +1,3 @@
-["stairs","threshold","sill"]
+stairs
+threshold
+sill

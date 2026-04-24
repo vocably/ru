@@ -1,1 +1,2 @@
-["integridad","pagkakaisa"]
+integridad
+pagkakaisa

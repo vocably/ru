@@ -1,1 +1,2 @@
-["þröskuldur","foss"]
+þröskuldur
+foss

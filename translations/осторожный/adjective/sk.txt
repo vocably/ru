@@ -1,1 +1,2 @@
-["opatrný","obozretný"]
+opatrný
+obozretný

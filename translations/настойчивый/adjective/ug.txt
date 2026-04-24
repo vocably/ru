@@ -1,1 +1,2 @@
-["qaysar","tirishchan"]
+qaysar
+tirishchan

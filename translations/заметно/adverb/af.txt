@@ -1,1 +1,2 @@
-["merkbaar","aansienlik"]
+merkbaar
+aansienlik

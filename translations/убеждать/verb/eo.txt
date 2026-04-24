@@ -1,1 +1,2 @@
-["persvadi","konvinki"]
+persvadi
+konvinki

@@ -1,1 +1,2 @@
-["negligere","se bort fra"]
+negligere
+se bort fra

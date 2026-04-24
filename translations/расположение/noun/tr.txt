@@ -1,1 +1,4 @@
-["konum","düzen","eğilim","ruh hali"]
+konum
+düzen
+eğilim
+ruh hali

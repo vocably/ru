@@ -1,1 +1,2 @@
-["whakahawea","tīwekaweka"]
+whakahawea
+tīwekaweka

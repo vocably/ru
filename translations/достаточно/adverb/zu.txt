@@ -1,1 +1,2 @@
-["Kwanele","Impela"]
+Kwanele
+Impela

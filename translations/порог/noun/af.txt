@@ -1,1 +1,3 @@
-["dorpel","stroomversnelling","drumpel"]
+dorpel
+stroomversnelling
+drumpel

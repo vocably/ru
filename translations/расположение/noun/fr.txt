@@ -1,1 +1,4 @@
-["emplacement","disposition","affection","humeur"]
+emplacement
+disposition
+affection
+humeur

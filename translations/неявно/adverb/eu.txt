@@ -1,1 +1,2 @@
-["ezkutuan","zeharka"]
+ezkutuan
+zeharka

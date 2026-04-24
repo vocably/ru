@@ -1,1 +1,3 @@
-["yglan etmek","tassykla mak","tanmak"]
+yglan etmek
+tassykla mak
+tanmak

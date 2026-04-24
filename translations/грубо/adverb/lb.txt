@@ -1,1 +1,3 @@
-["grof","ongeféier","plump"]
+grof
+ongeféier
+plump

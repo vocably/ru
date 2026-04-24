@@ -1,1 +1,2 @@
-["perustella","pohjustaa"]
+perustella
+pohjustaa

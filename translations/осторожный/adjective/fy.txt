@@ -1,1 +1,2 @@
-["foarsichtich","hoeden"]
+foarsichtich
+hoeden

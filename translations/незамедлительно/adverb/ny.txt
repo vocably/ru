@@ -1,1 +1,2 @@
-["nthawi yomweyo","msanga"]
+nthawi yomweyo
+msanga

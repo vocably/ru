@@ -1,1 +1,2 @@
-["láithreach","gan mhoill"]
+láithreach
+gan mhoill

@@ -1,1 +1,2 @@
-["umumqamrovchi","har tomonlama"]
+umumqamrovchi
+har tomonlama

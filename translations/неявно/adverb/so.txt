@@ -1,1 +1,2 @@
-["si qarsoodi ah","si dadban"]
+si qarsoodi ah
+si dadban

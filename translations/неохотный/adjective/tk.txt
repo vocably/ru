@@ -1,1 +1,2 @@
-["istemesiz","höwessiz"]
+istemesiz
+höwessiz

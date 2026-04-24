@@ -1,1 +1,2 @@
-["uparty","natarczywy"]
+uparty
+natarczywy

@@ -1,1 +1,2 @@
-["de réir a chéile","go mall"]
+de réir a chéile
+go mall

@@ -1,1 +1,4 @@
-["kahi","wahi","kau","manaʻo"]
+kahi
+wahi
+kau
+manaʻo

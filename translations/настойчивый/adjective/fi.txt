@@ -1,1 +1,2 @@
-["sisukas","itsepäinen"]
+sisukas
+itsepäinen

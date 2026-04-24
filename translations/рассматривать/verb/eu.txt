@@ -1,1 +1,3 @@
-["aztertu","kontuan hartu","ikusi"]
+aztertu
+kontuan hartu
+ikusi

@@ -1,1 +1,2 @@
-["įtikinti","perkalbėti"]
+įtikinti
+perkalbėti

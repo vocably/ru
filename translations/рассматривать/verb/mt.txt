@@ -1,1 +1,3 @@
-["tħares","tikkunsidra","tevalwa"]
+tħares
+tikkunsidra
+tevalwa

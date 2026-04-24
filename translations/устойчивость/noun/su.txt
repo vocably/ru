@@ -1,1 +1,2 @@
-["kasaimbangan","katahanan"]
+kasaimbangan
+katahanan

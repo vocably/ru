@@ -1,1 +1,2 @@
-["ku filan","caddaan"]
+ku filan
+caddaan

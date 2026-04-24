@@ -1,1 +1,2 @@
-["cothromaíocht","seasmhacht"]
+cothromaíocht
+seasmhacht

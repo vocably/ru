@@ -1,1 +1,4 @@
-["indawo","ubume","isimo","uthando"]
+indawo
+ubume
+isimo
+uthando

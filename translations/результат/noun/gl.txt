@@ -1,1 +1,2 @@
-["resultado","puntuación"]
+resultado
+puntuación

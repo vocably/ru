@@ -1,1 +1,2 @@
-["pastebimai","žymiai"]
+pastebimai
+žymiai

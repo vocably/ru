@@ -1,1 +1,2 @@
-["bihagije","rwose"]
+bihagije
+rwose

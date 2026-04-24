@@ -1,1 +1,4 @@
-["ýerleşiş","ýerleşme","meýil","keýip"]
+ýerleşiş
+ýerleşme
+meýil
+keýip

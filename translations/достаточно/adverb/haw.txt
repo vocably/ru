@@ -1,1 +1,2 @@
-["lawalu","lawa"]
+lawalu
+lawa

@@ -1,1 +1,2 @@
-["fark edilir derecede","önemli ölçüde"]
+fark edilir derecede
+önemli ölçüde

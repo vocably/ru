@@ -1,1 +1,2 @@
-["nabarmen","agerian"]
+nabarmen
+agerian

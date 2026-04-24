@@ -1,1 +1,2 @@
-["déan neamhaird de","fág ar lár"]
+déan neamhaird de
+fág ar lár

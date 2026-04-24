@@ -1,1 +1,3 @@
-["pagmasdan","isaalang-alang","tingnan"]
+pagmasdan
+isaalang-alang
+tingnan

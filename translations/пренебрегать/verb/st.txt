@@ -1,1 +1,2 @@
-["nyatsa","iphapha"]
+nyatsa
+iphapha

@@ -1,1 +1,3 @@
-["palang","undhak-undhakan","wates"]
+palang
+undhak-undhakan
+wates

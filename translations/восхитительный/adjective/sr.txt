@@ -1,1 +1,3 @@
-["divan","prekrasan","očaravajući"]
+divan
+prekrasan
+očaravajući

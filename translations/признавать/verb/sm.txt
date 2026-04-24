@@ -1,1 +1,3 @@
-["talia","faamaonia","iloa"]
+talia
+faamaonia
+iloa

@@ -1,1 +1,2 @@
-["dərhal","təcili"]
+dərhal
+təcili

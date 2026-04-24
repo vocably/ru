@@ -1,1 +1,2 @@
-["singarda","zorgema"]
+singarda
+zorgema

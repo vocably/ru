@@ -1,1 +1,2 @@
-["viditeľne","značne"]
+viditeľne
+značne

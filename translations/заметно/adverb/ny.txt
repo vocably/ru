@@ -1,1 +1,2 @@
-["mooneka","kwambiri"]
+mooneka
+kwambiri

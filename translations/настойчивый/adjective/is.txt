@@ -1,1 +1,2 @@
-["þrjóskur","áframhaldandi"]
+þrjóskur
+áframhaldandi

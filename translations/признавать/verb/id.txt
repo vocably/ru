@@ -1,1 +1,3 @@
-["mengakui","mengenali","menganggap"]
+mengakui
+mengenali
+menganggap

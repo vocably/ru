@@ -1,1 +1,4 @@
-["kokapen","lekualdatze","aldeko jarrera","aldarte"]
+kokapen
+lekualdatze
+aldeko jarrera
+aldarte

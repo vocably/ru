@@ -1,1 +1,2 @@
-["dayacin","dhayalsan"]
+dayacin
+dhayalsan

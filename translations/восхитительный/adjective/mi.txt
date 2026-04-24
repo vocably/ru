@@ -1,1 +1,3 @@
-["whakahirahira","rawe","rekareka"]
+whakahirahira
+rawe
+rekareka

@@ -1,1 +1,2 @@
-["reticent","renuent"]
+reticent
+renuent

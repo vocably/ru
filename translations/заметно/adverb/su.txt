@@ -1,1 +1,2 @@
-["katingal","karasa"]
+katingal
+karasa

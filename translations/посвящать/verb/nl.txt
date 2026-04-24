@@ -1,1 +1,4 @@
-["wijden aan","besteden aan","inwijden in","toewijden"]
+wijden aan
+besteden aan
+inwijden in
+toewijden

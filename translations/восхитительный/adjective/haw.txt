@@ -1,1 +1,3 @@
-["nani","maika'i loa","kupaianaha"]
+nani
+maika'i loa
+kupaianaha

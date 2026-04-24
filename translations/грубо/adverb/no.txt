@@ -1,1 +1,3 @@
-["frekt","omtrentlig","klossete"]
+frekt
+omtrentlig
+klossete

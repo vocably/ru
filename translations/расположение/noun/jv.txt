@@ -1,1 +1,4 @@
-["papan","panggonan","tata","sikap"]
+papan
+panggonan
+tata
+sikap

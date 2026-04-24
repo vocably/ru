@@ -1,1 +1,3 @@
-["imeline","vaimustav","võluv"]
+imeline
+vaimustav
+võluv

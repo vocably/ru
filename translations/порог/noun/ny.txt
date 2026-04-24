@@ -1,1 +1,3 @@
-["chiwundo","mathithi","poyambira"]
+chiwundo
+mathithi
+poyambira

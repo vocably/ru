@@ -1,1 +1,3 @@
-["delightful","delicious","adorable"]
+delightful
+delicious
+adorable

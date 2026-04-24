@@ -1,1 +1,3 @@
-["boholo","hlokahala","bolela"]
+boholo
+hlokahala
+bolela

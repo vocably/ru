@@ -1,1 +1,3 @@
-["gaharjaň","takmynan","gaba"]
+gaharjaň
+takmynan
+gaba

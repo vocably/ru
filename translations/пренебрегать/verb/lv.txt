@@ -1,1 +1,2 @@
-["nicināt","neievērot"]
+nicināt
+neievērot

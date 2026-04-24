@@ -1,1 +1,2 @@
-["onmiddellik","dadelik"]
+onmiddellik
+dadelik

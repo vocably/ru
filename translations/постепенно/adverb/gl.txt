@@ -1,1 +1,2 @@
-["paseniño","pouco a pouco"]
+paseniño
+pouco a pouco

@@ -1,1 +1,4 @@
-["wy","toewy","inwy","bestee"]
+wy
+toewy
+inwy
+bestee

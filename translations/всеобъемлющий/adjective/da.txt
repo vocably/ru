@@ -1,1 +1,2 @@
-["altomfattende","udtømmende"]
+altomfattende
+udtømmende

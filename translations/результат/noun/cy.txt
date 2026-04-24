@@ -1,1 +1,2 @@
-["canlyniad","sgôr"]
+canlyniad
+sgôr

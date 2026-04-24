@@ -1,1 +1,3 @@
-["tröskel","fors","gräns"]
+tröskel
+fors
+gräns

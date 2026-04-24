@@ -1,1 +1,2 @@
-["zonse","wokwanira"]
+zonse
+wokwanira

@@ -1,1 +1,2 @@
-["cautelós","prudent"]
+cautelós
+prudent

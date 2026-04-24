@@ -1,1 +1,2 @@
-["gradvis","etter hvert"]
+gradvis
+etter hvert

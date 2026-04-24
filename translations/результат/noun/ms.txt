@@ -1,1 +1,2 @@
-["hasil","keputusan"]
+hasil
+keputusan

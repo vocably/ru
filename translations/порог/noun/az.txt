@@ -1,1 +1,3 @@
-["eşik","astana","pillə"]
+eşik
+astana
+pillə

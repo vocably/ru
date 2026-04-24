@@ -1,1 +1,2 @@
-["tulemus","tagajärg"]
+tulemus
+tagajärg

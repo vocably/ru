@@ -1,1 +1,3 @@
-["unerkennen","zouginn","erkennen"]
+unerkennen
+zouginn
+erkennen

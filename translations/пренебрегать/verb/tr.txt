@@ -1,1 +1,2 @@
-["küçümsemek","ihmal etmek"]
+küçümsemek
+ihmal etmek

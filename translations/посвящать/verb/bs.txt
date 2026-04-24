@@ -1,1 +1,4 @@
-["posvetiti","namijeniti","upućivati","uvoditi"]
+posvetiti
+namijeniti
+upućivati
+uvoditi

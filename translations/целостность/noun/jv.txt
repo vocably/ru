@@ -1,1 +1,2 @@
-["kawutuhan","wutuh"]
+kawutuhan
+wutuh

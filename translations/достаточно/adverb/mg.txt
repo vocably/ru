@@ -1,1 +1,2 @@
-["ampy","somary"]
+ampy
+somary

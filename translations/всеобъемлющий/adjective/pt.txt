@@ -1,1 +1,2 @@
-["abrangente","completo"]
+abrangente
+completo

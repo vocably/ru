@@ -1,1 +1,4 @@
-["suíomh","ordú","fabhar","giúmar"]
+suíomh
+ordú
+fabhar
+giúmar

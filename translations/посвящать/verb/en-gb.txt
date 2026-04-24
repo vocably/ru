@@ -1,1 +1,4 @@
-["dedicate","devote","initiate","ordain"]
+dedicate
+devote
+initiate
+ordain

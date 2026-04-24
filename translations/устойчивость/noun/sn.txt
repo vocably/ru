@@ -1,1 +1,2 @@
-["kugadzikana","kusimba"]
+kugadzikana
+kusimba

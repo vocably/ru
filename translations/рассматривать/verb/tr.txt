@@ -1,1 +1,3 @@
-["incelemek","gözden geçirmek","değerlendirmek"]
+incelemek
+gözden geçirmek
+değerlendirmek

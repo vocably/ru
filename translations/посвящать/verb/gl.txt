@@ -1,1 +1,4 @@
-["dedicar","consagrar","iniciar","ordenar"]
+dedicar
+consagrar
+iniciar
+ordenar

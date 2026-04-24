@@ -1,1 +1,4 @@
-["kupereka","kudzipereka","kuuza","kusankha"]
+kupereka
+kudzipereka
+kuuza
+kusankha

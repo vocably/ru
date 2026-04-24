@@ -1,1 +1,2 @@
-["tartiib","aayar"]
+tartiib
+aayar

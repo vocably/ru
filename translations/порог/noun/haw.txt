@@ -1,1 +1,3 @@
-["paepae","wailele","kau"]
+paepae
+wailele
+kau

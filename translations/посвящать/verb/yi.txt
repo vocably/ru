@@ -1,1 +1,4 @@
-["widmen","tsuteiln","mekadesh zayn","oyfklern"]
+widmen
+tsuteiln
+mekadesh zayn
+oyfklern

@@ -1,1 +1,2 @@
-["berfireh","giştgîr"]
+berfireh
+giştgîr

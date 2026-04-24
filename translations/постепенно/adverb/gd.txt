@@ -1,1 +1,2 @@
-["mean-time","bit by bit"]
+mean-time
+bit by bit

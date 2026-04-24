@@ -1,1 +1,4 @@
-["sebaka","tokisetso","kutloelobotlhoko","maikutlo"]
+sebaka
+tokisetso
+kutloelobotlhoko
+maikutlo

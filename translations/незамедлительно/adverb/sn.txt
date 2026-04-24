@@ -1,1 +1,2 @@
-["pakarepo","ipapo"]
+pakarepo
+ipapo

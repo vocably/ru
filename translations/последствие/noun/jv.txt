@@ -1,1 +1,2 @@
-["akibat","konsekuensi"]
+akibat
+konsekuensi

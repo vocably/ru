@@ -1,1 +1,2 @@
-["atoaga","maopoopo"]
+atoaga
+maopoopo

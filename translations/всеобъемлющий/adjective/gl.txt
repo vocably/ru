@@ -1,1 +1,2 @@
-["integral","exhaustivo"]
+integral
+exhaustivo

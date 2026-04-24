@@ -1,1 +1,2 @@
-["faiceallach","cùramach"]
+faiceallach
+cùramach

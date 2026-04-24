@@ -1,1 +1,2 @@
-["follas","go suntasach"]
+follas
+go suntasach

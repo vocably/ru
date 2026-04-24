@@ -1,1 +1,2 @@
-["pèsistan","ki ensiste"]
+pèsistan
+ki ensiste

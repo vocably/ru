@@ -1,1 +1,2 @@
-["mandresy lahatra","mampino"]
+mandresy lahatra
+mampino

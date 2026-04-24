@@ -1,1 +1,2 @@
-["stabiilsus","püsivus"]
+stabiilsus
+püsivus

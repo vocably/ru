@@ -1,1 +1,4 @@
-["kinalalagyan","ayos","pagtingin","kalooban"]
+kinalalagyan
+ayos
+pagtingin
+kalooban

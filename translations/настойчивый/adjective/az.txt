@@ -1,1 +1,2 @@
-["əzmkar","təkidli"]
+əzmkar
+təkidli

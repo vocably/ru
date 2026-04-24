@@ -1,1 +1,3 @@
-["iongantach","sgoinneil","àlainn"]
+iongantach
+sgoinneil
+àlainn

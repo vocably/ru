@@ -1,1 +1,2 @@
-["bitewlik","tutuşlyk"]
+bitewlik
+tutuşlyk

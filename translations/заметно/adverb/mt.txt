@@ -1,1 +1,2 @@
-["b'ovvjament'","b'evidentement'"]
+b'ovvjament'
+b'evidentement'

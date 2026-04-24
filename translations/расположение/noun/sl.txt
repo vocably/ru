@@ -1,1 +1,4 @@
-["lega","razporeditev","naklonjenost","razpoloženje"]
+lega
+razporeditev
+naklonjenost
+razpoloženje

@@ -1,1 +1,4 @@
-["dedicare","consacrare","votare","iniziare"]
+dedicare
+consacrare
+votare
+iniziare

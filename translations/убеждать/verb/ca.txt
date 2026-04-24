@@ -1,1 +1,2 @@
-["convèncer","persuadir"]
+convèncer
+persuadir

@@ -1,1 +1,2 @@
-["begrunde","underbygge"]
+begrunde
+underbygge

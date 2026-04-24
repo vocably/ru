@@ -1,1 +1,2 @@
-["gevolg","nasleep"]
+gevolg
+nasleep

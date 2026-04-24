@@ -1,1 +1,4 @@
-["posvečati","namenjati","uvajati","posvečevati"]
+posvečati
+namenjati
+uvajati
+posvečevati

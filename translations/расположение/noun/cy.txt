@@ -1,1 +1,4 @@
-["lleoliad","trefniant","hoffter","cyflwr"]
+lleoliad
+trefniant
+hoffter
+cyflwr

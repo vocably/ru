@@ -1,1 +1,3 @@
-["si xun","qiyaastii","si qallafsan"]
+si xun
+qiyaastii
+si qallafsan

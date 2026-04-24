@@ -1,1 +1,2 @@
-["megvet","elhanyagol"]
+megvet
+elhanyagol

@@ -1,1 +1,2 @@
-["kutosha","kabisa"]
+kutosha
+kabisa

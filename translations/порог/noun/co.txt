@@ -1,1 +1,3 @@
-["sogliu","rapida","limitu"]
+sogliu
+rapida
+limitu

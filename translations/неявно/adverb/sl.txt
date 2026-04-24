@@ -1,1 +1,2 @@
-["implicitno","posredno"]
+implicitno
+posredno

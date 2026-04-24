@@ -1,1 +1,2 @@
-["bay rezon","justify"]
+bay rezon
+justify

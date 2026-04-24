@@ -1,1 +1,4 @@
-["tilegne","vie","innvie","ordinere"]
+tilegne
+vie
+innvie
+ordinere

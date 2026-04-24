@@ -1,1 +1,4 @@
-["Lag","Uerdnung","Gonscht","Stëmmung"]
+Lag
+Uerdnung
+Gonscht
+Stëmmung

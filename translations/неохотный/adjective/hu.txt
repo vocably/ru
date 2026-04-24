@@ -1,1 +1,2 @@
-["kelletlen","vonakodó"]
+kelletlen
+vonakodó

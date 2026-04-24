@@ -1,1 +1,2 @@
-["notablemente","sensiblemente"]
+notablemente
+sensiblemente

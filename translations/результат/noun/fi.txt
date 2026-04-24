@@ -1,1 +1,2 @@
-["tulos","lopputulos"]
+tulos
+lopputulos

@@ -1,1 +1,2 @@
-["ihärdig","envis"]
+ihärdig
+envis

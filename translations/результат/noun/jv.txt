@@ -1,1 +1,2 @@
-["asil","kasil"]
+asil
+kasil

@@ -1,1 +1,2 @@
-["isa","sosai"]
+isa
+sosai

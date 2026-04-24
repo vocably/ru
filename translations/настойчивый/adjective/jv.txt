@@ -1,1 +1,2 @@
-["kukuh","mantep"]
+kukuh
+mantep

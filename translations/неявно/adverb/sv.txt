@@ -1,1 +1,2 @@
-["implicit","indirekt"]
+implicit
+indirekt

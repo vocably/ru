@@ -1,1 +1,3 @@
-["prah","perej","hranica"]
+prah
+perej
+hranica

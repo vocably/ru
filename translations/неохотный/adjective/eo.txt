@@ -1,1 +1,2 @@
-["malvolonta","kontraŭvola"]
+malvolonta
+kontraŭvola

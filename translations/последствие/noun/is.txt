@@ -1,1 +1,2 @@
-["afleiðing","eftirköst"]
+afleiðing
+eftirköst

@@ -1,1 +1,3 @@
-["pozerať","uvažovať","považovať"]
+pozerať
+uvažovať
+považovať

@@ -1,1 +1,3 @@
-["inyocha","ịtụle","ịghọta"]
+inyocha
+ịtụle
+ịghọta

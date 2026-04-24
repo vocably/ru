@@ -1,1 +1,3 @@
-["beschouwen","overwegen","bekijken"]
+beschouwen
+overwegen
+bekijken

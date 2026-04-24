@@ -1,1 +1,2 @@
-["estabilidade","resistencia"]
+estabilidade
+resistencia

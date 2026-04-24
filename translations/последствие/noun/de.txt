@@ -1,1 +1,2 @@
-["die Folge","die Konsequenz"]
+die Folge
+die Konsequenz

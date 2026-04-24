@@ -1,1 +1,2 @@
-["pridan","atantif"]
+pridan
+atantif

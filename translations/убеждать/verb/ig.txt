@@ -1,1 +1,2 @@
-["kwenye","mee ka mmadu kwenye"]
+kwenye
+mee ka mmadu kwenye

@@ -1,1 +1,4 @@
-["vieta","išdėstymas","palankumas","nuotaika"]
+vieta
+išdėstymas
+palankumas
+nuotaika

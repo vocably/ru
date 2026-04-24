@@ -1,1 +1,4 @@
-["beliggenhet","plassering","sympati","humør"]
+beliggenhet
+plassering
+sympati
+humør

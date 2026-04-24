@@ -1,1 +1,4 @@
-["kote","aranjman","dispozisyon","atitid"]
+kote
+aranjman
+dispozisyon
+atitid

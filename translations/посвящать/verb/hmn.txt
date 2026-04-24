@@ -1,1 +1,4 @@
-["pab","muab","qhia","tsim"]
+pab
+muab
+qhia
+tsim

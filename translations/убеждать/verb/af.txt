@@ -1,1 +1,2 @@
-["oortuig","oorreed"]
+oortuig
+oorreed

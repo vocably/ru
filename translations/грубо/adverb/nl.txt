@@ -1,1 +1,3 @@
-["grof","ruw","onbeschoft"]
+grof
+ruw
+onbeschoft

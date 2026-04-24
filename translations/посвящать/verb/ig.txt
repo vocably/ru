@@ -1,1 +1,4 @@
-["inyefe","itinye","ime ka mmadu mara","idozi"]
+inyefe
+itinye
+ime ka mmadu mara
+idozi

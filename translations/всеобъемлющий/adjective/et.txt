@@ -1,1 +1,2 @@
-["kõikehõlmav","üldine"]
+kõikehõlmav
+üldine

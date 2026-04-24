@@ -1,1 +1,4 @@
-["sadaukarwa","ba da lokaci","sanar da","gabatar da"]
+sadaukarwa
+ba da lokaci
+sanar da
+gabatar da

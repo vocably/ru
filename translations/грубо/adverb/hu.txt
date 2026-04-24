@@ -1,1 +1,3 @@
-["durván","körülbelül","nyersen"]
+durván
+körülbelül
+nyersen

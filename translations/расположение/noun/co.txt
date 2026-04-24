@@ -1,1 +1,4 @@
-["situazione","disposizione","piazzamentu","umore"]
+situazione
+disposizione
+piazzamentu
+umore

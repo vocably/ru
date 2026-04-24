@@ -1,1 +1,2 @@
-["palaipsniui","pamažu"]
+palaipsniui
+pamažu

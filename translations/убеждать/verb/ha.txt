@@ -1,1 +1,2 @@
-["shaida","lallaba"]
+shaida
+lallaba

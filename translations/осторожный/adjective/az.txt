@@ -1,1 +1,2 @@
-["ehtiyatlı","təmkinli"]
+ehtiyatlı
+təmkinli

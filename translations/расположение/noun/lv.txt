@@ -1,1 +1,4 @@
-["izvietojums","novietojums","atrašanās vieta","noskaņojums"]
+izvietojums
+novietojums
+atrašanās vieta
+noskaņojums

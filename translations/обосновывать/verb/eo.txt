@@ -1,1 +1,2 @@
-["pruvi","pravigi"]
+pruvi
+pravigi

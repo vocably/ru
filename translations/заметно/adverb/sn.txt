@@ -1,1 +1,2 @@
-["zvinonyatsooneka","zvakanyanya"]
+zvinonyatsooneka
+zvakanyanya

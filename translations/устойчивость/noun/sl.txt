@@ -1,1 +1,2 @@
-["stabilnost","obstojnost"]
+stabilnost
+obstojnost

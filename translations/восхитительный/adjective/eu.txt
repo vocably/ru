@@ -1,1 +1,3 @@
-["zoragarri","bikain","eder"]
+zoragarri
+bikain
+eder

@@ -1,1 +1,2 @@
-["gu leòr","cho math"]
+gu leòr
+cho math

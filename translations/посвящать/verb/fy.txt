@@ -1,1 +1,4 @@
-["tawiis","besteegje","ynliede","wije"]
+tawiis
+besteegje
+ynliede
+wije

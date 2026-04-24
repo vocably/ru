@@ -1,1 +1,2 @@
-["pasojë","rrjedhojë"]
+pasojë
+rrjedhojë

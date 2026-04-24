@@ -1,1 +1,2 @@
-["resultat","udfald"]
+resultat
+udfald

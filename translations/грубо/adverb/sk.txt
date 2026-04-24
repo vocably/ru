@@ -1,1 +1,3 @@
-["hrubo","zhruba","neotesane"]
+hrubo
+zhruba
+neotesane

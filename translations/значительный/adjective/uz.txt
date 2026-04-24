@@ -1,1 +1,3 @@
-["katta","muhim","salmoqli"]
+katta
+muhim
+salmoqli

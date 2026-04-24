@@ -1,1 +1,3 @@
-["pragtig","heerlik","verruklik"]
+pragtig
+heerlik
+verruklik

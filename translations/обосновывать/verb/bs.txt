@@ -1,1 +1,2 @@
-["obrazlagati","utemeljiti"]
+obrazlagati
+utemeljiti

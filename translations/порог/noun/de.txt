@@ -1,1 +1,3 @@
-["die Schwelle","die Stromschnelle","die Grenze"]
+die Schwelle
+die Stromschnelle
+die Grenze

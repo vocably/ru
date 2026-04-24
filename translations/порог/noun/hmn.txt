@@ -1,1 +1,3 @@
-["qhov rooj","dej tsaws tsag","pib"]
+qhov rooj
+dej tsaws tsag
+pib

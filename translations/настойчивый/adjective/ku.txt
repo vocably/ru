@@ -1,1 +1,2 @@
-["serhişk","bi israr"]
+serhişk
+bi israr

@@ -1,1 +1,2 @@
-["stabilita","odolnosť"]
+stabilita
+odolnosť

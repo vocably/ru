@@ -1,1 +1,2 @@
-["treptat","gradual"]
+treptat
+gradual

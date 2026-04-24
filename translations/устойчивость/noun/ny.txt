@@ -1,1 +1,2 @@
-["kukhazikika","kulimba"]
+kukhazikika
+kulimba

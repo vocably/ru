@@ -1,1 +1,4 @@
-["elhelyezkedés","elrendezés","hajlam","hangulat"]
+elhelyezkedés
+elrendezés
+hajlam
+hangulat

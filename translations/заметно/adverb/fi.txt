@@ -1,1 +1,2 @@
-["huomattavasti","selvästi"]
+huomattavasti
+selvästi

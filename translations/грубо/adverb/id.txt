@@ -1,1 +1,3 @@
-["kasar","kira-kira","secara kasar"]
+kasar
+kira-kira
+secara kasar

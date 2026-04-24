@@ -1,1 +1,2 @@
-["elég","meglehetősen"]
+elég
+meglehetősen

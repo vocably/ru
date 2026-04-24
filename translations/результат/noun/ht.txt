@@ -1,1 +1,2 @@
-["rezilta","konklizyon"]
+rezilta
+konklizyon

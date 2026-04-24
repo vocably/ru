@@ -1,1 +1,2 @@
-["begrënnen","rechtfertegen"]
+begrënnen
+rechtfertegen

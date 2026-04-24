@@ -1,1 +1,2 @@
-["fokozatosan","lassanként"]
+fokozatosan
+lassanként

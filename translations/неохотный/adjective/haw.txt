@@ -1,1 +1,2 @@
-["kolohe","hoʻokano"]
+kolohe
+hoʻokano

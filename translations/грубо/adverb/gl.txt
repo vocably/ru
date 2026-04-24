@@ -1,1 +1,3 @@
-["grozamente","aproximadamente","rudamente"]
+grozamente
+aproximadamente
+rudamente

@@ -1,1 +1,2 @@
-["pakāpeniski","pamazām"]
+pakāpeniski
+pamazām

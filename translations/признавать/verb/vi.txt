@@ -1,1 +1,3 @@
-["công nhận","thừa nhận","nhận ra"]
+công nhận
+thừa nhận
+nhận ra

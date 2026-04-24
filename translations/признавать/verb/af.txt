@@ -1,1 +1,3 @@
-["erken","beken","herken"]
+erken
+beken
+herken

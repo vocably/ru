@@ -1,1 +1,2 @@
-["sofort","unverzüglich"]
+sofort
+unverzüglich

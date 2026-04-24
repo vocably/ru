@@ -1,1 +1,2 @@
-["ĉioenhava","ampleksa"]
+ĉioenhava
+ampleksa

@@ -1,1 +1,4 @@
-["mahali","mpangilio","upendeleo","hali"]
+mahali
+mpangilio
+upendeleo
+hali

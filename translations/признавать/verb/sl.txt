@@ -1,1 +1,3 @@
-["priznavati","potrjevati","prepoznavati"]
+priznavati
+potrjevati
+prepoznavati

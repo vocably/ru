@@ -1,1 +1,2 @@
-["manao tsinontsinona","mampiasa"]
+manao tsinontsinona
+mampiasa

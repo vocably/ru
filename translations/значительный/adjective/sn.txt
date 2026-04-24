@@ -1,1 +1,3 @@
-["hukuru","chakakosha","chinoreva zvakawanda"]
+hukuru
+chakakosha
+chinoreva zvakawanda

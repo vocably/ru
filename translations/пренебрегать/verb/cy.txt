@@ -1,1 +1,2 @@
-["esgeuluso","diystyru"]
+esgeuluso
+diystyru

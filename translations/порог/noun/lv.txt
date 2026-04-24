@@ -1,1 +1,3 @@
-["slieksnis","krāce","robeža"]
+slieksnis
+krāce
+robeža

@@ -1,1 +1,2 @@
-["omnibus","exhaustiu"]
+omnibus
+exhaustiu

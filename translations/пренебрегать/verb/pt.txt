@@ -1,1 +1,2 @@
-["desprezar","negligenciar"]
+desprezar
+negligenciar

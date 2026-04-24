@@ -1,1 +1,3 @@
-["ystyried","trafod","edrych ar"]
+ystyried
+trafod
+edrych ar

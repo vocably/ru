@@ -1,1 +1,3 @@
-["bastos","magaspang","halos"]
+bastos
+magaspang
+halos

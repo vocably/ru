@@ -1,1 +1,6 @@
-["di\ngba di\ngba","la\ngba la\ngba"]
+di
+gba di
+gba
+la
+gba la
+gba

@@ -1,1 +1,3 @@
-["mawr","pwysig","ystyrlon"]
+mawr
+pwysig
+ystyrlon

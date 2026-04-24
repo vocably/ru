@@ -1,1 +1,2 @@
-["amharus","grumpy"]
+amharus
+grumpy

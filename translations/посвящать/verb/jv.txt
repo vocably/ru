@@ -1,1 +1,3 @@
-["ngaturake","ngaturaken","nyawisake"]
+ngaturake
+ngaturaken
+nyawisake

@@ -1,1 +1,3 @@
-["terskel","stryk","grense"]
+terskel
+stryk
+grense

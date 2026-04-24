@@ -1,1 +1,2 @@
-["saymamaq","etinasız yanaşmaq"]
+saymamaq
+etinasız yanaşmaq

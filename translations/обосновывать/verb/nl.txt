@@ -1,1 +1,2 @@
-["rechtvaardigen","onderbouwen"]
+rechtvaardigen
+onderbouwen

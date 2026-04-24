@@ -1,1 +1,3 @@
-["wonnerbar","herrlech","fantastesch"]
+wonnerbar
+herrlech
+fantastesch

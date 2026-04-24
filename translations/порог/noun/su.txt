@@ -1,1 +1,3 @@
-["ambang","leuwi","wates"]
+ambang
+leuwi
+wates

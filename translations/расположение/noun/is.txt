@@ -1,1 +1,4 @@
-["staðsetning","skipulag","velvilji","skap"]
+staðsetning
+skipulag
+velvilji
+skap

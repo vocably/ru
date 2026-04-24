@@ -1,1 +1,2 @@
-["immediatament","tot seguit"]
+immediatament
+tot seguit

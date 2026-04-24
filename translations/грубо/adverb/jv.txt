@@ -1,1 +1,3 @@
-["kanthi kasar","kira-kira","sacara kasar"]
+kanthi kasar
+kira-kira
+sacara kasar

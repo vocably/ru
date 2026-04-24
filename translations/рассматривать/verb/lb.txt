@@ -1,1 +1,3 @@
-["kucken","ënnersichen","betruechten"]
+kucken
+ënnersichen
+betruechten

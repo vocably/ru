@@ -1,1 +1,2 @@
-["begrunne","fundamentere"]
+begrunne
+fundamentere

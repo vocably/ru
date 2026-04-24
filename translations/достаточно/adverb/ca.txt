@@ -1,1 +1,2 @@
-["prou","bastant"]
+prou
+bastant

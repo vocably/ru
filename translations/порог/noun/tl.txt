@@ -1,1 +1,3 @@
-["paso","taluktok","hangganan"]
+paso
+taluktok
+hangganan

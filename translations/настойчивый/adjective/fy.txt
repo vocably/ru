@@ -1,1 +1,2 @@
-["oanhâldend","koppich"]
+oanhâldend
+koppich

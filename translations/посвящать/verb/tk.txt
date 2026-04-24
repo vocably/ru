@@ -1,1 +1,4 @@
-["bagyşlamak","wekiller","goýmak","düzmek"]
+bagyşlamak
+wekiller
+goýmak
+düzmek

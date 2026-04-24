@@ -1,1 +1,2 @@
-["merklich","erheblich"]
+merklich
+erheblich

@@ -1,1 +1,4 @@
-["meel","goob","dareen","xaalad"]
+meel
+goob
+dareen
+xaalad

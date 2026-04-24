@@ -1,1 +1,3 @@
-["matagofie","manaia","faʻafiafiaga"]
+matagofie
+manaia
+faʻafiafiaga

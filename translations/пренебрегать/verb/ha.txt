@@ -1,1 +1,2 @@
-["rainuwa","saba wa"]
+rainuwa
+saba wa

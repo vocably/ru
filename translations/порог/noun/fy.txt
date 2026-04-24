@@ -1,1 +1,3 @@
-["drompel","stryks","grins"]
+drompel
+stryks
+grins

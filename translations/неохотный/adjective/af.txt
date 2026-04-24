@@ -1,1 +1,2 @@
-["onwillig","teësinnig"]
+onwillig
+teësinnig

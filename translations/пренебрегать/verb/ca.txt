@@ -1,1 +1,2 @@
-["menysprear","negligir"]
+menysprear
+negligir

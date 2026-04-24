@@ -1,1 +1,3 @@
-["n'ụzọ na-adịghị mma","ihe dị ka","n'ụzọ na-enweghị nkà"]
+n'ụzọ na-adịghị mma
+ihe dị ka
+n'ụzọ na-enweghị nkà

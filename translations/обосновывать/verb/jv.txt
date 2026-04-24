@@ -1,1 +1,2 @@
-["mbuktekake","ndhasari"]
+mbuktekake
+ndhasari

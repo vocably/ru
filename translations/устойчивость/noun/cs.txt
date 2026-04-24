@@ -1,1 +1,2 @@
-["stabilita","stálost"]
+stabilita
+stálost

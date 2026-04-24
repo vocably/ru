@@ -1,1 +1,2 @@
-["menjëherë","pa vonesë"]
+menjëherë
+pa vonesë

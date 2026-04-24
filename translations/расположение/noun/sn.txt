@@ -1,1 +1,4 @@
-["nzvimbo","kurongeka","kufarira","mafungiro"]
+nzvimbo
+kurongeka
+kufarira
+mafungiro

@@ -1,1 +1,2 @@
-["mai hankali","mai tsaro"]
+mai hankali
+mai tsaro

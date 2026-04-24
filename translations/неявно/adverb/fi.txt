@@ -1,1 +1,2 @@
-["epäsuorasti","implisiittisesti"]
+epäsuorasti
+implisiittisesti

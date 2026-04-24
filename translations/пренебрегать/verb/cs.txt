@@ -1,1 +1,2 @@
-["pohrdat","zanedbávat"]
+pohrdat
+zanedbávat

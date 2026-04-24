@@ -1,1 +1,3 @@
-["härlig","underbar","utsökt"]
+härlig
+underbar
+utsökt

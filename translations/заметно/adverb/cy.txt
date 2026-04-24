@@ -1,1 +1,2 @@
-["yn amlwg","yn sylweddol"]
+yn amlwg
+yn sylweddol

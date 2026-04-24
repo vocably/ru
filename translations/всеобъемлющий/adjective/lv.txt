@@ -1,1 +1,2 @@
-["visaptverošs","izsmeļošs"]
+visaptverošs
+izsmeļošs

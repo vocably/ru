@@ -1,1 +1,2 @@
-["ungern","widerwillig"]
+ungern
+widerwillig

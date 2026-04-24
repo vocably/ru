@@ -1,1 +1,2 @@
-["azonnal","haladéktalanul"]
+azonnal
+haladéktalanul

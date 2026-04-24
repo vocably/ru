@@ -1,1 +1,2 @@
-["implicitamente","indiretamente"]
+implicitamente
+indiretamente

@@ -1,1 +1,2 @@
-["kestabilan","ketahanan"]
+kestabilan
+ketahanan

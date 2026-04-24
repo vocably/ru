@@ -1,1 +1,3 @@
-["nagrinėti","svarstyti","laikyti"]
+nagrinėti
+svarstyti
+laikyti

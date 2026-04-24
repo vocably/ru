@@ -1,1 +1,2 @@
-["enggan","segan"]
+enggan
+segan

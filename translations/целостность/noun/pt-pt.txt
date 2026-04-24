@@ -1,1 +1,2 @@
-["integridade","totalidade"]
+integridade
+totalidade

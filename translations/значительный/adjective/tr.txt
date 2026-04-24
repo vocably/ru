@@ -1,1 +1,3 @@
-["önemli","büyük","kayda değer"]
+önemli
+büyük
+kayda değer

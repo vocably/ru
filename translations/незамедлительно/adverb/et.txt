@@ -1,1 +1,2 @@
-["viivitamatult","kohe"]
+viivitamatult
+kohe

@@ -1,1 +1,4 @@
-["läge","placering","disposition","humör"]
+läge
+placering
+disposition
+humör

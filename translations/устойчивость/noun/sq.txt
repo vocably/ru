@@ -1,1 +1,2 @@
-["qëndrueshmëri","stabilitet"]
+qëndrueshmëri
+stabilitet

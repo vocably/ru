@@ -1,1 +1,3 @@
-["kobud","təxminən","sərt"]
+kobud
+təxminən
+sərt

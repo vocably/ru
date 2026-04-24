@@ -1,1 +1,2 @@
-["imediat","neîntârziat"]
+imediat
+neîntârziat

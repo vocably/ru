@@ -1,1 +1,2 @@
-["gradualmente","paulatinamente"]
+gradualmente
+paulatinamente

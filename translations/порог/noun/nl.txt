@@ -1,1 +1,3 @@
-["drempel","stroomversnelling","drempelwaarde"]
+drempel
+stroomversnelling
+drempelwaarde

@@ -1,1 +1,2 @@
-["bigaragara","cyane"]
+bigaragara
+cyane

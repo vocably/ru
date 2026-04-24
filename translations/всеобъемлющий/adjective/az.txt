@@ -1,1 +1,2 @@
-["hərtərəfli","ümumi"]
+hərtərəfli
+ümumi

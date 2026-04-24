@@ -1,1 +1,2 @@
-["gerekçelendirmek","temellendirmek"]
+gerekçelendirmek
+temellendirmek

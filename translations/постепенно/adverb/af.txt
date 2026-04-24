@@ -1,1 +1,2 @@
-["geleidelik","gaandeweg"]
+geleidelik
+gaandeweg

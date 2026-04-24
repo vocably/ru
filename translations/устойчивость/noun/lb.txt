@@ -1,1 +1,2 @@
-["Stabilitéit","Resistenz"]
+Stabilitéit
+Resistenz

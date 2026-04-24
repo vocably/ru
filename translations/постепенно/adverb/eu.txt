@@ -1,1 +1,2 @@
-["pixkanaka","apurka-apurka"]
+pixkanaka
+apurka-apurka

@@ -1,1 +1,2 @@
-["persistema","obstina"]
+persistema
+obstina

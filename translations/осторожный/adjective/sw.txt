@@ -1,1 +1,2 @@
-["mwangalifu","hadhari"]
+mwangalifu
+hadhari

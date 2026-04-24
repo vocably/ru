@@ -1,1 +1,3 @@
-["seretmek","ara alyp maslahatlaşmak","garamak"]
+seretmek
+ara alyp maslahatlaşmak
+garamak

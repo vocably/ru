@@ -1,1 +1,2 @@
-["netije","jem"]
+netije
+jem

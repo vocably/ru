@@ -1,1 +1,3 @@
-["mukova","chikumbaridzo","gonhi"]
+mukova
+chikumbaridzo
+gonhi

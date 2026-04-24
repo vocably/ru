@@ -1,1 +1,2 @@
-["zanemarivati","ignorirati"]
+zanemarivati
+ignorirati

@@ -1,1 +1,3 @@
-["tunnistama","möönma","ära tundma"]
+tunnistama
+möönma
+ära tundma

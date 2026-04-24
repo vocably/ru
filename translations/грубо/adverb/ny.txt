@@ -1,1 +1,3 @@
-["mwano","pafupifupi","mosalunjika"]
+mwano
+pafupifupi
+mosalunjika

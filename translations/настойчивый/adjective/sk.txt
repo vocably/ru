@@ -1,1 +1,2 @@
-["vytrvalý","húževnatý"]
+vytrvalý
+húževnatý

@@ -1,1 +1,3 @@
-["iloilo","talanoa","mafaufau"]
+iloilo
+talanoa
+mafaufau

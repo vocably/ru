@@ -1,1 +1,4 @@
-["ubicació","disposició","afecte","humor"]
+ubicació
+disposició
+afecte
+humor

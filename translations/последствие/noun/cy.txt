@@ -1,1 +1,2 @@
-["canlyniad","effaith"]
+canlyniad
+effaith

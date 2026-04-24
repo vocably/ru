@@ -1,1 +1,2 @@
-["ho paka","ho theha"]
+ho paka
+ho theha

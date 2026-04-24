@@ -1,1 +1,2 @@
-["nerado","nevoljan"]
+nerado
+nevoljan

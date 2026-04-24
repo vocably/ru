@@ -1,1 +1,2 @@
-["takoj","nemudoma"]
+takoj
+nemudoma

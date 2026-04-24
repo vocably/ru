@@ -1,1 +1,2 @@
-["teljesség","egység"]
+teljesség
+egység

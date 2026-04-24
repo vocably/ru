@@ -1,1 +1,3 @@
-["a recunoaște","a admite","a identifica"]
+a recunoaște
+a admite
+a identifica

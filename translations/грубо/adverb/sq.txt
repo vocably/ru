@@ -1,1 +1,3 @@
-["ashpër","përafërsisht","trashë"]
+ashpër
+përafërsisht
+trashë

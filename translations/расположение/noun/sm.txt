@@ -1,1 +1,4 @@
-["tulaga","nofoaga","faatulagaga","lagona"]
+tulaga
+nofoaga
+faatulagaga
+lagona

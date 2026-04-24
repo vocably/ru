@@ -1,1 +1,4 @@
-["coisrig","caitheamh","foillseachadh","òrdachadh"]
+coisrig
+caitheamh
+foillseachadh
+òrdachadh

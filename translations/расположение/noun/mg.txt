@@ -1,1 +1,4 @@
-["toerana","fandaharana","fitiavana","toe-tsaina"]
+toerana
+fandaharana
+fitiavana
+toe-tsaina

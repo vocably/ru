@@ -1,1 +1,3 @@
-["ihana","hurmaava","viehättävä"]
+ihana
+hurmaava
+viehättävä

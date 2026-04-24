@@ -1,1 +1,2 @@
-["Äsgermezlik etmek","Üns bermezlik"]
+Äsgermezlik etmek
+Üns bermezlik

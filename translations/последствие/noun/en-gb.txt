@@ -1,1 +1,2 @@
-["consequence","aftermath"]
+consequence
+aftermath

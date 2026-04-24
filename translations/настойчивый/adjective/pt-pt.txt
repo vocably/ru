@@ -1,1 +1,2 @@
-["persistente","insistente"]
+persistente
+insistente

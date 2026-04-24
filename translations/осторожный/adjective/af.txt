@@ -1,1 +1,2 @@
-["versigtig","omsigtig"]
+versigtig
+omsigtig

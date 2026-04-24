@@ -1,1 +1,2 @@
-["seasmhach","daingeann"]
+seasmhach
+daingeann

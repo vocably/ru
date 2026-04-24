@@ -1,1 +1,2 @@
-["vizibil","considerabil"]
+vizibil
+considerabil

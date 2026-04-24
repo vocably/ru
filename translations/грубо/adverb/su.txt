@@ -1,1 +1,3 @@
-["kasar","kurang lemes","sakira"]
+kasar
+kurang lemes
+sakira

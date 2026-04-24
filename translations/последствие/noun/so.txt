@@ -1,1 +1,2 @@
-["saameyn","natiijo"]
+saameyn
+natiijo

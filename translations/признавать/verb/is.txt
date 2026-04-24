@@ -1,1 +1,3 @@
-["viðurkenna","játa","þekkja"]
+viðurkenna
+játa
+þekkja

@@ -1,1 +1,2 @@
-["txhua yam","kom tiav"]
+txhua yam
+kom tiav

@@ -1,1 +1,3 @@
-["veltīt","ziedot","iesvētīt"]
+veltīt
+ziedot
+iesvētīt

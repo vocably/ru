@@ -1,1 +1,2 @@
-["heilleika","heilindi"]
+heilleika
+heilindi

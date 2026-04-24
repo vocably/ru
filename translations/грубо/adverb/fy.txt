@@ -1,1 +1,3 @@
-["ruw","ûngefear","grou"]
+ruw
+ûngefear
+grou

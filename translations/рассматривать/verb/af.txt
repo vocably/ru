@@ -1,1 +1,3 @@
-["beskou","oorweeg","aanskou"]
+beskou
+oorweeg
+aanskou

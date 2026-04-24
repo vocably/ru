@@ -1,1 +1,2 @@
-["oqotho","phikelela"]
+oqotho
+phikelela

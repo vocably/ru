@@ -1,1 +1,3 @@
-["mahery setra","tsy mahalala fomba","mora"]
+mahery setra
+tsy mahalala fomba
+mora

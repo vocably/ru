@@ -1,1 +1,3 @@
-["kynnys","koski","kynnysarvo"]
+kynnys
+koski
+kynnysarvo

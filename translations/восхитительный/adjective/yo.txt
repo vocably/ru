@@ -1,1 +1,3 @@
-["iyanu","didara","lẹwa"]
+iyanu
+didara
+lẹwa

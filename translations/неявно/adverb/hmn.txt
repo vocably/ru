@@ -1,1 +1,2 @@
-["tsis pom","tsis qhia"]
+tsis pom
+tsis qhia

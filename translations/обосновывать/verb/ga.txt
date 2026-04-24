@@ -1,1 +1,2 @@
-["fianaise a thabhairt","bonn a chur faoi"]
+fianaise a thabhairt
+bonn a chur faoi

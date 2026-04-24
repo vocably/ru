@@ -1,1 +1,3 @@
-["vaatlema","arutama","käsitlema"]
+vaatlema
+arutama
+käsitlema

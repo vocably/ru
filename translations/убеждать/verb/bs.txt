@@ -1,1 +1,2 @@
-["ubijediti","uvjeriti"]
+ubijediti
+uvjeriti

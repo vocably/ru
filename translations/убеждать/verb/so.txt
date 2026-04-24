@@ -1,1 +1,2 @@
-["qancin","rumaysiin"]
+qancin
+rumaysiin

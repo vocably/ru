@@ -1,1 +1,4 @@
-["skirti","pašvęsti","įšventinti","įvesdinti"]
+skirti
+pašvęsti
+įšventinti
+įvesdinti

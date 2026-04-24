@@ -1,1 +1,2 @@
-["yashirincha","bilvosita"]
+yashirincha
+bilvosita

@@ -1,1 +1,2 @@
-["onn icomprensivo","esaustivo"]
+onn icomprensivo
+esaustivo

@@ -1,1 +1,2 @@
-["gradually","little by little"]
+gradually
+little by little

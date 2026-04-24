@@ -1,1 +1,2 @@
-["gizlin","açyk däl"]
+gizlin
+açyk däl

@@ -1,1 +1,2 @@
-["stöðugleiki","viðnám"]
+stöðugleiki
+viðnám

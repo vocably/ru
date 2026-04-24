@@ -1,1 +1,3 @@
-["ageng","wigati","penting"]
+ageng
+wigati
+penting

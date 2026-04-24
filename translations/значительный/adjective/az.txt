@@ -1,1 +1,3 @@
-["əhəmiyyətli","böyük","önəmli"]
+əhəmiyyətli
+böyük
+önəmli

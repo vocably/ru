@@ -1,1 +1,2 @@
-["resulta","kinalabasan"]
+resulta
+kinalabasan

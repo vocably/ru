@@ -1,1 +1,4 @@
-["ukunikezela","ukunikezela ixesha","ukwazisa","ukumisela"]
+ukunikezela
+ukunikezela ixesha
+ukwazisa
+ukumisela

@@ -1,1 +1,4 @@
-["situo","aranĝo","inklino","humoro"]
+situo
+aranĝo
+inklino
+humoro

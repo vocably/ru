@@ -1,1 +1,2 @@
-["wegah","emoh"]
+wegah
+emoh

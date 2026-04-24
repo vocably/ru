@@ -1,1 +1,3 @@
-["prohlížet","posuzovat","považovat"]
+prohlížet
+posuzovat
+považovat

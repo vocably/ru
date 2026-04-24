@@ -1,1 +1,3 @@
-["ricunnosce","ammette","cunfirmà"]
+ricunnosce
+ammette
+cunfirmà

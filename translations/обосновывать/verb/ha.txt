@@ -1,1 +1,2 @@
-["tabbatar","kafa hujja"]
+tabbatar
+kafa hujja

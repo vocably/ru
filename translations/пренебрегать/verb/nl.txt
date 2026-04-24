@@ -1,1 +1,2 @@
-["verwaarlozen","negeren"]
+verwaarlozen
+negeren

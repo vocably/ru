@@ -1,1 +1,2 @@
-["-a kusita","-a kulazimishwa"]
+-a kusita
+-a kulazimishwa

@@ -1,1 +1,2 @@
-["zvishoma nezvishoma","zvinononoka"]
+zvishoma nezvishoma
+zvinononoka

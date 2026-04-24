@@ -1,1 +1,3 @@
-["nyemak","nimbang","nganggep"]
+nyemak
+nimbang
+nganggep

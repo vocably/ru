@@ -1,1 +1,2 @@
-["darhol","zudlik bilan"]
+darhol
+zudlik bilan

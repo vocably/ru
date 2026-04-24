@@ -1,1 +1,2 @@
-["verachten","missachten"]
+verachten
+missachten

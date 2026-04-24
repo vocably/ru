@@ -1,1 +1,3 @@
-["shqyrtoj","konsideroj","vështroj"]
+shqyrtoj
+konsideroj
+vështroj

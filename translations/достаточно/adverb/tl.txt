@@ -1,1 +1,2 @@
-["sapat","tama"]
+sapat
+tama

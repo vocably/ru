@@ -1,1 +1,2 @@
-["tính toàn vẹn","tính đồng nhất"]
+tính toàn vẹn
+tính đồng nhất

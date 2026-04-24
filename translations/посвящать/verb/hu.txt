@@ -1,1 +1,4 @@
-["szentel","ajánl","beavat","felavat"]
+szentel
+ajánl
+beavat
+felavat

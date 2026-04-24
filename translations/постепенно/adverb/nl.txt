@@ -1,1 +1,2 @@
-["geleidelijk","langzamerhand"]
+geleidelijk
+langzamerhand

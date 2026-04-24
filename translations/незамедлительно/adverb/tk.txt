@@ -1,1 +1,2 @@
-["derrew","haýal etmän"]
+derrew
+haýal etmän

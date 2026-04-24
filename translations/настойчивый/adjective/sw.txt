@@ -1,1 +1,2 @@
-["mwenye bidii","imara"]
+mwenye bidii
+imara

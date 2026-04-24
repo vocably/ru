@@ -1,1 +1,2 @@
-["tədricən","getdikcə"]
+tədricən
+getdikcə

@@ -1,1 +1,2 @@
-["egonkortasun","iraunkortasun"]
+egonkortasun
+iraunkortasun

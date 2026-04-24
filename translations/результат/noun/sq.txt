@@ -1,1 +1,2 @@
-["rezultat","përfundim"]
+rezultat
+përfundim

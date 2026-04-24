@@ -1,1 +1,4 @@
-["umiestnenie","rozlozenie","naklonnost","nalada"]
+umiestnenie
+rozlozenie
+naklonnost
+nalada

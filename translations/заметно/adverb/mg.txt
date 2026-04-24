@@ -1,1 +1,2 @@
-["hita maso","tsapa"]
+hita maso
+tsapa

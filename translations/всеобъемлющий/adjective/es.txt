@@ -1,1 +1,2 @@
-["integral","completo"]
+integral
+completo

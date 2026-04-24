@@ -1,1 +1,2 @@
-["stabiliteit","duurzaamheid"]
+stabiliteit
+duurzaamheid

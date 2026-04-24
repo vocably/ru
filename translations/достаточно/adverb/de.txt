@@ -1,1 +1,2 @@
-["genug","ziemlich"]
+genug
+ziemlich

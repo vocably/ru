@@ -1,1 +1,3 @@
-["atalase","ur-jauzi","muga"]
+atalase
+ur-jauzi
+muga

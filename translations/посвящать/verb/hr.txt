@@ -1,1 +1,4 @@
-["posvećivati","posvetiti","upućivati","upućivati u"]
+posvećivati
+posvetiti
+upućivati
+upućivati u

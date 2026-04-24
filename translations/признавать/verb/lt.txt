@@ -1,1 +1,3 @@
-["pripažinti","patvirtinti","atpažinti"]
+pripažinti
+patvirtinti
+atpažinti

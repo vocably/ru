@@ -1,1 +1,2 @@
-["ancha","sezilarli"]
+ancha
+sezilarli

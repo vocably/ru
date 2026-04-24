@@ -1,1 +1,2 @@
-["zvakakwana","zvakaringana"]
+zvakakwana
+zvakaringana

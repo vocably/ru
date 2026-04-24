@@ -1,1 +1,3 @@
-["besjen","yn omtinken nimme","beskôgje"]
+besjen
+yn omtinken nimme
+beskôgje

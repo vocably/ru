@@ -1,1 +1,3 @@
-["kwa ukali","kwa takriban","kwa ufundi mbaya"]
+kwa ukali
+kwa takriban
+kwa ufundi mbaya

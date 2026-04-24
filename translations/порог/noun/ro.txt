@@ -1,1 +1,3 @@
-["prag","cascadă","limită"]
+prag
+cascadă
+limită

@@ -1,1 +1,3 @@
-["betrachten","prüfen","ansehen"]
+betrachten
+prüfen
+ansehen

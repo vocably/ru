@@ -1,1 +1,2 @@
-["viengabalainība","veselums"]
+viengabalainība
+veselums

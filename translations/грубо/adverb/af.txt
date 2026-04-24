@@ -1,1 +1,3 @@
-["grofweg","ongeveer","onbeskof"]
+grofweg
+ongeveer
+onbeskof

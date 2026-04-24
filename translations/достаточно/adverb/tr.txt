@@ -1,1 +1,2 @@
-["yeterince","oldukça"]
+yeterince
+oldukça

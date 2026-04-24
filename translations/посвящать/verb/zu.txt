@@ -1,1 +1,4 @@
-["ukunikezela","ukunikezela isikhathi","ukwazisa","ukugcotshwa"]
+ukunikezela
+ukunikezela isikhathi
+ukwazisa
+ukugcotshwa

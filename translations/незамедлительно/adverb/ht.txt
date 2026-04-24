@@ -1,1 +1,2 @@
-["touswit","san pèdi tan"]
+touswit
+san pèdi tan

@@ -1,1 +1,3 @@
-["marinka","biyaq","xadka"]
+marinka
+biyaq
+xadka

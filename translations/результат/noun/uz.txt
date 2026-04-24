@@ -1,1 +1,2 @@
-["natija","samara"]
+natija
+samara

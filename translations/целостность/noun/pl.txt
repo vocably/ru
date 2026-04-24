@@ -1,1 +1,2 @@
-["integralność","całość"]
+integralność
+całość

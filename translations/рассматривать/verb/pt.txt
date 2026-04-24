@@ -1,1 +1,3 @@
-["examinar","considerar","analisar"]
+examinar
+considerar
+analisar

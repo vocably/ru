@@ -1,1 +1,2 @@
-["komprehensibo","lubos"]
+komprehensibo
+lubos

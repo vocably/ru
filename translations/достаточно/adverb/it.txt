@@ -1,1 +1,2 @@
-["abbastanza","piuttosto"]
+abbastanza
+piuttosto

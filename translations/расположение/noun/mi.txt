@@ -1,1 +1,4 @@
-["wāhi","tūnga","aroha","ngākau"]
+wāhi
+tūnga
+aroha
+ngākau

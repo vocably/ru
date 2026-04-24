@@ -1,1 +1,2 @@
-["hua","putanga"]
+hua
+putanga

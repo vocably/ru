@@ -1,1 +1,3 @@
-["kabaca","yaklaşık","özensizce"]
+kabaca
+yaklaşık
+özensizce

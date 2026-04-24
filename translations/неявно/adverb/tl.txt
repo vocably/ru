@@ -1,1 +1,2 @@
-["hindi tuwiran","hindi hayagan"]
+hindi tuwiran
+hindi hayagan

@@ -1,1 +1,2 @@
-["följd","konsekvens"]
+följd
+konsekvens

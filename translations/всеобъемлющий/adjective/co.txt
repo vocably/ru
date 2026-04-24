@@ -1,1 +1,2 @@
-["onnipresente","cumplettu"]
+onnipresente
+cumplettu

@@ -1,1 +1,2 @@
-["segera","dengan segera"]
+segera
+dengan segera

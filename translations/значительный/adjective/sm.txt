@@ -1,1 +1,3 @@
-["tele","taua","mafana"]
+tele
+taua
+mafana

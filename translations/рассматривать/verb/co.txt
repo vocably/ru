@@ -1,1 +1,3 @@
-["esaminà","cunsiderà","vede"]
+esaminà
+cunsiderà
+vede

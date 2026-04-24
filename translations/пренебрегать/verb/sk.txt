@@ -1,1 +1,2 @@
-["pohŕdať","zanedbávať"]
+pohŕdať
+zanedbávať

@@ -1,1 +1,3 @@
-["limiar","soleira","rápido"]
+limiar
+soleira
+rápido

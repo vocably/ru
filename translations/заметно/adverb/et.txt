@@ -1,1 +1,2 @@
-["märgatavalt","silmnähtavalt"]
+märgatavalt
+silmnähtavalt

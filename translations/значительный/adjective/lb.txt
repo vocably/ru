@@ -1,1 +1,3 @@
-["grouss","wichteg","bedeitend"]
+grouss
+wichteg
+bedeitend

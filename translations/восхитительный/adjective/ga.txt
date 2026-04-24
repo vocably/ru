@@ -1,1 +1,3 @@
-["álainn","aoibhinn","thar barr"]
+álainn
+aoibhinn
+thar barr

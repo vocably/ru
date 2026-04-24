@@ -1,1 +1,2 @@
-["arrazoitu","oinarritu"]
+arrazoitu
+oinarritu

@@ -1,1 +1,2 @@
-["rökstyðja","réttlæta"]
+rökstyðja
+réttlæta

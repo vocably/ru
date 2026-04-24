@@ -1,1 +1,2 @@
-["kaikenkattava","tyhjentävä"]
+kaikenkattava
+tyhjentävä

@@ -1,1 +1,3 @@
-["kupendeza","nzuri sana","ajabu"]
+kupendeza
+nzuri sana
+ajabu

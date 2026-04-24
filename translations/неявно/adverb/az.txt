@@ -1,1 +1,2 @@
-["üstüörtülü","qeyri-aşkar"]
+üstüörtülü
+qeyri-aşkar

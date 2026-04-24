@@ -1,1 +1,3 @@
-["rudely","roughly","coarsely"]
+rudely
+roughly
+coarsely

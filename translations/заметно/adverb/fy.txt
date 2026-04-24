@@ -1,1 +1,2 @@
-["dúdlik","oansjenlik"]
+dúdlik
+oansjenlik

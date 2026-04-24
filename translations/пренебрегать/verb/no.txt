@@ -1,1 +1,2 @@
-["ringeakte","neglisjere"]
+ringeakte
+neglisjere

@@ -1,1 +1,4 @@
-["location","arrangement","affection","mood"]
+location
+arrangement
+affection
+mood

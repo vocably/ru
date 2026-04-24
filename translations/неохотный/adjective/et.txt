@@ -1,1 +1,2 @@
-["vastumeelne","ebatõrges"]
+vastumeelne
+ebatõrges

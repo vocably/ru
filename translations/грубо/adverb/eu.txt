@@ -1,1 +1,3 @@
-["zakar","gutxi gorabehera","baldar"]
+zakar
+gutxi gorabehera
+baldar

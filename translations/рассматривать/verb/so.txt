@@ -1,1 +1,3 @@
-["fiiri","ka fiirso","u fiirso"]
+fiiri
+ka fiirso
+u fiirso

@@ -1,1 +1,3 @@
-["malonnèt","apeprè","grosyèman"]
+malonnèt
+apeprè
+grosyèman

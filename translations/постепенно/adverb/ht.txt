@@ -1,1 +1,2 @@
-["tik apre tik","piti piti"]
+tik apre tik
+piti piti

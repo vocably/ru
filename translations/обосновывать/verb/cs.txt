@@ -1,1 +1,2 @@
-["zdůvodňovat","odůvodňovat"]
+zdůvodňovat
+odůvodňovat

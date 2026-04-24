@@ -1,1 +1,2 @@
-["terlihat","jelas"]
+terlihat
+jelas

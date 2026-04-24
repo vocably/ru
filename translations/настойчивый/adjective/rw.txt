@@ -1,1 +1,2 @@
-["Umunyembaraga","Udashyikirwa"]
+Umunyembaraga
+Udashyikirwa

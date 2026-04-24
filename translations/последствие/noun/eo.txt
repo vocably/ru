@@ -1,1 +1,2 @@
-["sekvo","konsekvenco"]
+sekvo
+konsekvenco

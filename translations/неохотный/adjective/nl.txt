@@ -1,1 +1,2 @@
-["onwillig","met tegenzin"]
+onwillig
+met tegenzin

@@ -1,1 +1,2 @@
-["atsargus","apatsargus"]
+atsargus
+apatsargus

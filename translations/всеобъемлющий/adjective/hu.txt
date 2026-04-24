@@ -1,1 +1,2 @@
-["átfogó","mindent felölelő"]
+átfogó
+mindent felölelő

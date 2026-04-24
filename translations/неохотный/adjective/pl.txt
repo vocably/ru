@@ -1,1 +1,2 @@
-["niechętny","nieochoczy"]
+niechętny
+nieochoczy

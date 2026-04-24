@@ -1,1 +1,2 @@
-["veruechten","net bekëmmeren"]
+veruechten
+net bekëmmeren

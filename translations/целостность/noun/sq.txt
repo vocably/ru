@@ -1,1 +1,2 @@
-["integritet","tërësi"]
+integritet
+tërësi

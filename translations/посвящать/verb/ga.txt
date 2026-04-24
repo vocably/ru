@@ -1,1 +1,4 @@
-["tiomnadh","caitheamh","cur in iúl","oirdneadh"]
+tiomnadh
+caitheamh
+cur in iúl
+oirdneadh

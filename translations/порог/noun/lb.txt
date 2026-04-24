@@ -1,1 +1,3 @@
-["Schwell","Waasserfall","Grenz"]
+Schwell
+Waasserfall
+Grenz

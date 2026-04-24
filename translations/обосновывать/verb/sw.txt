@@ -1,1 +1,2 @@
-["thibitisha","tetea"]
+thibitisha
+tetea

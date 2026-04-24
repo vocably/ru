@@ -1,1 +1,2 @@
-["ýeterlik","dostatoçno"]
+ýeterlik
+dostatoçno

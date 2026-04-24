@@ -1,1 +1,2 @@
-["stabilitāte","noturība"]
+stabilitāte
+noturība

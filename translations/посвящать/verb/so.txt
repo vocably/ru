@@ -1,1 +1,4 @@
-["u hibeeyo","u go'aami","u hur","u celi"]
+u hibeeyo
+u go'aami
+u hur
+u celi

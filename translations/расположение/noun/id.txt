@@ -1,1 +1,4 @@
-["lokasi","tata letak","simpati","suasana hati"]
+lokasi
+tata letak
+simpati
+suasana hati

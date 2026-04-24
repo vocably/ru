@@ -1,1 +1,3 @@
-["skoða","íhuga","líta á"]
+skoða
+íhuga
+líta á

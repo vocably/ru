@@ -1,1 +1,3 @@
-["kubwa","muhimu","yenye maana"]
+kubwa
+muhimu
+yenye maana

@@ -1,1 +1,2 @@
-["ngawengku","lengkep"]
+ngawengku
+lengkep

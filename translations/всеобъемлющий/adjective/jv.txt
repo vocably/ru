@@ -1,1 +1,2 @@
-["jembar","komplit"]
+jembar
+komplit

@@ -1,1 +1,3 @@
-["dásamlegur","yndislegur","hrífandi"]
+dásamlegur
+yndislegur
+hrífandi

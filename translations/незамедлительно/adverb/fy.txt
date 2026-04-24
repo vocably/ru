@@ -1,1 +1,2 @@
-["fuortendaliks","daliks"]
+fuortendaliks
+daliks

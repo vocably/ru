@@ -1,1 +1,2 @@
-["i kujdesshëm","i matur"]
+i kujdesshëm
+i matur

@@ -1,1 +1,2 @@
-["isteksiz","gönülsüz"]
+isteksiz
+gönülsüz

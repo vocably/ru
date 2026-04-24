@@ -1,1 +1,4 @@
-["qhov chaw","txoj haujlwm","kev nyiam","lub siab"]
+qhov chaw
+txoj haujlwm
+kev nyiam
+lub siab

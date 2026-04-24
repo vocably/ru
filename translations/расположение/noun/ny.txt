@@ -1,1 +1,4 @@
-["malo","dongosolo","chikondi","maganizo"]
+malo
+dongosolo
+chikondi
+maganizo

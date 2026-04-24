@@ -1,1 +1,2 @@
-["avy hatrany","tsy misy hataka andro"]
+avy hatrany
+tsy misy hataka andro

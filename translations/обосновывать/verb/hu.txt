@@ -1,1 +1,2 @@
-["indokol","alátámaszt"]
+indokol
+alátámaszt

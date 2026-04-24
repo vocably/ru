@@ -1,1 +1,2 @@
-["wiidweidich","folslein"]
+wiidweidich
+folslein

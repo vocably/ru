@@ -1,1 +1,3 @@
-["apbrīnojams","brīnišķīgs","lielisks"]
+apbrīnojams
+brīnišķīgs
+lielisks

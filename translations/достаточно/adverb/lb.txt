@@ -1,1 +1,2 @@
-["genuch","zimlech"]
+genuch
+zimlech

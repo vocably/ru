@@ -1,1 +1,4 @@
-["widmen","veréieren","afzestellen","ariichten"]
+widmen
+veréieren
+afzestellen
+ariichten

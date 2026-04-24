@@ -1,1 +1,2 @@
-["konvenk","persuade"]
+konvenk
+persuade

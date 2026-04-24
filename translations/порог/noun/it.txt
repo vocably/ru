@@ -1,1 +1,3 @@
-["soglia","rapida","limite"]
+soglia
+rapida
+limite

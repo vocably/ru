@@ -1,1 +1,2 @@
-["zanemarivati","prezreti"]
+zanemarivati
+prezreti

@@ -1,1 +1,2 @@
-["mobisika","mwakabisika"]
+mobisika
+mwakabisika

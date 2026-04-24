@@ -1,1 +1,4 @@
-["ngahaturkeun","nyanggakeun","ngawincik","ngangkat"]
+ngahaturkeun
+nyanggakeun
+ngawincik
+ngangkat

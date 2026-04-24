@@ -1,1 +1,2 @@
-["seasmhachd","daingne"]
+seasmhachd
+daingne

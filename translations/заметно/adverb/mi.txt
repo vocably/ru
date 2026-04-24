@@ -1,1 +1,2 @@
-["kitea","mārama"]
+kitea
+mārama

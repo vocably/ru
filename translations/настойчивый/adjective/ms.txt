@@ -1,1 +1,2 @@
-["tabah","tegas"]
+tabah
+tegas

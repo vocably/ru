@@ -1,1 +1,4 @@
-["locatie","ligging","opstelling","stemming"]
+locatie
+ligging
+opstelling
+stemming

@@ -1,1 +1,3 @@
-["ngaku","ngakuin","mikawanoh"]
+ngaku
+ngakuin
+mikawanoh

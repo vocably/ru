@@ -1,1 +1,2 @@
-["eredmény","végösszeg"]
+eredmény
+végösszeg

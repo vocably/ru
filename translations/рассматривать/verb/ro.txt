@@ -1,1 +1,3 @@
-["a examina","a considera","a privi"]
+a examina
+a considera
+a privi

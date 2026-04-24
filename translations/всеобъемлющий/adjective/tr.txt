@@ -1,1 +1,2 @@
-["kapsamlı","etraflı"]
+kapsamlı
+etraflı

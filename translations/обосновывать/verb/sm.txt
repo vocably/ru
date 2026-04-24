@@ -1,1 +1,2 @@
-["faamaonia","lagolagoina"]
+faamaonia
+lagolagoina

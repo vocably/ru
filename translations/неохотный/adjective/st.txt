@@ -1,1 +1,2 @@
-["sa labese","sa rata"]
+sa labese
+sa rata

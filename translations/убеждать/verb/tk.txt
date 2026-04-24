@@ -1,1 +1,2 @@
-["ynandyrmak","ikrar etdirmek"]
+ynandyrmak
+ikrar etdirmek

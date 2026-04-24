@@ -1,1 +1,3 @@
-["entzückend","hinreißend","wunderbar"]
+entzückend
+hinreißend
+wunderbar

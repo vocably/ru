@@ -1,1 +1,2 @@
-["ukuzinza","ukuqina"]
+ukuzinza
+ukuqina

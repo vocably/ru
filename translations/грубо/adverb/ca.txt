@@ -1,1 +1,3 @@
-["bruscament","aproximadament","tosca"]
+bruscament
+aproximadament
+tosca

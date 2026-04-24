@@ -1,1 +1,2 @@
-["cyfanrwydd","uniondeb"]
+cyfanrwydd
+uniondeb

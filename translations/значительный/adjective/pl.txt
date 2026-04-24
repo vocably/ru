@@ -1,1 +1,3 @@
-["znaczny","istotny","wyrazisty"]
+znaczny
+istotny
+wyrazisty

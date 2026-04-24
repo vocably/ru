@@ -1,1 +1,2 @@
-["mai-dagewa","mai-kwazo"]
+mai-dagewa
+mai-kwazo

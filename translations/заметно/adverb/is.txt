@@ -1,1 +1,2 @@
-["greinilega","talsvert"]
+greinilega
+talsvert

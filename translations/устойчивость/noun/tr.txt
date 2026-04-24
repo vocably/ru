@@ -1,1 +1,2 @@
-["denge","istikrar"]
+denge
+istikrar

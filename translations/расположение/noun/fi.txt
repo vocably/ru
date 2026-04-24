@@ -1,1 +1,4 @@
-["sijainti","asettelu","suhtautuminen","mieliala"]
+sijainti
+asettelu
+suhtautuminen
+mieliala

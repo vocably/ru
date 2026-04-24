@@ -1,1 +1,3 @@
-["próg","granica","początek"]
+próg
+granica
+początek

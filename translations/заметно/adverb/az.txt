@@ -1,1 +1,2 @@
-["görünür","xeyli"]
+görünür
+xeyli

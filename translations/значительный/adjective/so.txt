@@ -1,1 +1,3 @@
-["weyn","muhiim ah","macno leh"]
+weyn
+muhiim ah
+macno leh

@@ -1,1 +1,2 @@
-["imediatamente","sem demora"]
+imediatamente
+sem demora

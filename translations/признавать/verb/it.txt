@@ -1,1 +1,3 @@
-["riconoscere","ammettere","accettare"]
+riconoscere
+ammettere
+accettare

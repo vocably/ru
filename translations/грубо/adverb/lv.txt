@@ -1,1 +1,3 @@
-["rupji","aptuveni","neveikli"]
+rupji
+aptuveni
+neveikli

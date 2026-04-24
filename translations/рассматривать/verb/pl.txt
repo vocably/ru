@@ -1,1 +1,3 @@
-["rozważać","rozpatrywać","brać pod uwagę"]
+rozważać
+rozpatrywać
+brać pod uwagę

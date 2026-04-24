@@ -1,1 +1,2 @@
-["dearbhaich","cuir impidh air"]
+dearbhaich
+cuir impidh air

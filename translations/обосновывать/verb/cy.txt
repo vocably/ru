@@ -1,1 +1,2 @@
-["cyfiawnhau","sail"]
+cyfiawnhau
+sail

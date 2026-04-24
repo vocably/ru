@@ -1,1 +1,3 @@
-["limitu","soll","blata"]
+limitu
+soll
+blata

@@ -1,1 +1,2 @@
-["genoeg","redelik"]
+genoeg
+redelik

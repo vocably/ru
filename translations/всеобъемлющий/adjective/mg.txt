@@ -1,1 +1,2 @@
-["feno","manerantany"]
+feno
+manerantany

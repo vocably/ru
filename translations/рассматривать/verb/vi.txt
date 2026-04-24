@@ -1,1 +1,3 @@
-["xem xét","nghiên cứu","cân nhắc"]
+xem xét
+nghiên cứu
+cân nhắc

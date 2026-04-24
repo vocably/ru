@@ -1,1 +1,4 @@
-["cih","rewş","helwest","dil"]
+cih
+rewş
+helwest
+dil

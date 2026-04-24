@@ -1,1 +1,3 @@
-["nalungtik","ngabahas","nganggap"]
+nalungtik
+ngabahas
+nganggap

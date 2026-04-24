@@ -1,1 +1,2 @@
-["järkjärgult","tasapisi"]
+järkjärgult
+tasapisi

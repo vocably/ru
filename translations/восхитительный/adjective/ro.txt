@@ -1,1 +1,3 @@
-["admirabil","delicios","minunat"]
+admirabil
+delicios
+minunat

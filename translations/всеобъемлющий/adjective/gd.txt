@@ -1,1 +1,2 @@
-["uile-choitcheann","coileanta"]
+uile-choitcheann
+coileanta

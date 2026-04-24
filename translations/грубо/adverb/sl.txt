@@ -1,1 +1,3 @@
-["grobo","pribli\\u017eno","nerodno"]
+grobo
+pribli\u017eno
+nerodno

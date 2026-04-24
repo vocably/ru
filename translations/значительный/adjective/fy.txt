@@ -1,1 +1,3 @@
-["oansjenlik","fan belang","yntins"]
+oansjenlik
+fan belang
+yntins

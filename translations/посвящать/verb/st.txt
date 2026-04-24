@@ -1,1 +1,4 @@
-["nehela","inehela","tsebisa","hlomamisa"]
+nehela
+inehela
+tsebisa
+hlomamisa

@@ -1,1 +1,3 @@
-["paepae","afeafe","amataga"]
+paepae
+afeafe
+amataga

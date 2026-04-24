@@ -1,1 +1,2 @@
-["Resultat","Auswierkung"]
+Resultat
+Auswierkung

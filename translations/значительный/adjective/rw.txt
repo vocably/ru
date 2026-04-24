@@ -1,1 +1,3 @@
-["kinini","ingirakamaro","gifiteireme"]
+kinini
+ingirakamaro
+gifiteireme

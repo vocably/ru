@@ -1,1 +1,2 @@
-["ase","sifizamman"]
+ase
+sifizamman

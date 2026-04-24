@@ -1,1 +1,4 @@
-["die Lage","die Anordnung","die Zuneigung","die Stimmung"]
+die Lage
+die Anordnung
+die Zuneigung
+die Stimmung

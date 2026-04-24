@@ -1,1 +1,2 @@
-["dhammaystirnaan","midnimo"]
+dhammaystirnaan
+midnimo

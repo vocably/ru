@@ -1,1 +1,2 @@
-["si muuqata","si weyn"]
+si muuqata
+si weyn

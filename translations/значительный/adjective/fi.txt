@@ -1,1 +1,3 @@
-["merkittävä","huomattava","tärkeä"]
+merkittävä
+huomattava
+tärkeä

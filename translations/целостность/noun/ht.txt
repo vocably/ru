@@ -1,1 +1,2 @@
-["initegrite","konpletid"]
+initegrite
+konpletid

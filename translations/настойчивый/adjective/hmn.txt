@@ -1,1 +1,2 @@
-["khov kho","ruaj nrees"]
+khov kho
+ruaj nrees

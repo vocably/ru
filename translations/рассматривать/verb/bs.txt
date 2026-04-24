@@ -1,1 +1,3 @@
-["razmatrati","promatrati","smatrati"]
+razmatrati
+promatrati
+smatrati

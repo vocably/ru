@@ -1,1 +1,4 @@
-["yerləşmə","yerləşdirmə","mövqe","vəziyyət"]
+yerləşmə
+yerləşdirmə
+mövqe
+vəziyyət

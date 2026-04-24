@@ -1,1 +1,2 @@
-["natychmiast","niezwłocznie"]
+natychmiast
+niezwłocznie

@@ -1,1 +1,2 @@
-["kapansin-pansin","halata"]
+kapansin-pansin
+halata

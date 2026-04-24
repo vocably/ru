@@ -1,1 +1,2 @@
-["nelabprātīgs","negribīgs"]
+nelabprātīgs
+negribīgs

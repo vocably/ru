@@ -1,1 +1,2 @@
-["paumahan","ū"]
+paumahan
+ū

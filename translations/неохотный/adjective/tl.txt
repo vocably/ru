@@ -1,1 +1,2 @@
-["ayaw","walang-kagustuhan"]
+ayaw
+walang-kagustuhan

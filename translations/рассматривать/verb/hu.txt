@@ -1,1 +1,3 @@
-["megvizsgál","megfontol","tekint"]
+megvizsgál
+megfontol
+tekint

@@ -1,1 +1,2 @@
-["impliċitament","indirettament"]
+impliċitament
+indirettament

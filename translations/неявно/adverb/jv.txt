@@ -1,1 +1,2 @@
-["ora langsung","kanthi implisit"]
+ora langsung
+kanthi implisit

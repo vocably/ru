@@ -1,1 +1,2 @@
-["kwa siri","kwa kificho"]
+kwa siri
+kwa kificho

@@ -1,1 +1,2 @@
-["beharrlech","haartnäckeg"]
+beharrlech
+haartnäckeg

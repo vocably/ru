@@ -1,1 +1,2 @@
-["uzmanīgs","piesardzīgs"]
+uzmanīgs
+piesardzīgs

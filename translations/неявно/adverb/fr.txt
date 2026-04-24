@@ -1,1 +1,2 @@
-["implicitement","tacitement"]
+implicitement
+tacitement

@@ -1,1 +1,2 @@
-["cukup","rada"]
+cukup
+rada

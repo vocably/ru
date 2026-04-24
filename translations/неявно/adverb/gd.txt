@@ -1,1 +1,2 @@
-["gu neo-dhìreach","gu h-obann"]
+gu neo-dhìreach
+gu h-obann

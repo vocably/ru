@@ -1,1 +1,2 @@
-["vakaus","kestävyys"]
+vakaus
+kestävyys

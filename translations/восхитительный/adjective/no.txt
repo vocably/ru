@@ -1,1 +1,3 @@
-["herlig","nydelig","praktfull"]
+herlig
+nydelig
+praktfull

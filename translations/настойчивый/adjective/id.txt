@@ -1,1 +1,2 @@
-["gigih","ulet"]
+gigih
+ulet

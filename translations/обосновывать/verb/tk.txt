@@ -1,1 +1,2 @@
-["esaslandyrmak","delillendirmek"]
+esaslandyrmak
+delillendirmek

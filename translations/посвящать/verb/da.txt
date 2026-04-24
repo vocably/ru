@@ -1,1 +1,4 @@
-["tilegne","hellige","indvie","vie"]
+tilegne
+hellige
+indvie
+vie

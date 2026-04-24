@@ -1,1 +1,3 @@
-["ecêb","balkêş","delal"]
+ecêb
+balkêş
+delal

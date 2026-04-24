@@ -1,1 +1,3 @@
-["mirinda","raviga","ĉarma"]
+mirinda
+raviga
+ĉarma

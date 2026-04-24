@@ -1,1 +1,3 @@
-["boʻsagʻa","ostona","chegara"]
+boʻsagʻa
+ostona
+chegara

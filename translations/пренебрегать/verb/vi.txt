@@ -1,1 +1,2 @@
-["coi thường","bỏ qua"]
+coi thường
+bỏ qua

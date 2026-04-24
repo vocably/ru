@@ -1,1 +1,2 @@
-["beharrlich","hartnäckig"]
+beharrlich
+hartnäckig

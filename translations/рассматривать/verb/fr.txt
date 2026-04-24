@@ -1,1 +1,3 @@
-["examiner","considérer","envisager"]
+examiner
+considérer
+envisager

@@ -1,1 +1,2 @@
-["enggal-enggal","saniki ugi"]
+enggal-enggal
+saniki ugi

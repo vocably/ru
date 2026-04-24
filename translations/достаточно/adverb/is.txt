@@ -1,1 +1,2 @@
-["nóg","allnokkuð"]
+nóg
+allnokkuð

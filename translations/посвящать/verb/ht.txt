@@ -1,1 +1,4 @@
-["konsakre","dedye","inisye","bay"]
+konsakre
+dedye
+inisye
+bay

@@ -1,1 +1,2 @@
-["saro-pady","tsy mazoto"]
+saro-pady
+tsy mazoto

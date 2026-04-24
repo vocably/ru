@@ -1,1 +1,2 @@
-["malina","mitandrina"]
+malina
+mitandrina

@@ -1,1 +1,2 @@
-["argumentoj","bazoj"]
+argumentoj
+bazoj

@@ -1,1 +1,2 @@
-["vizib","remakab"]
+vizib
+remakab

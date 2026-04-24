@@ -1,1 +1,2 @@
-["tonu","i reira tonu"]
+tonu
+i reira tonu

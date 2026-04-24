@@ -1,1 +1,3 @@
-["betrakta","överväga","anse"]
+betrakta
+överväga
+anse

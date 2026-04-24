@@ -1,1 +1,2 @@
-["tillräckligt","ganska"]
+tillräckligt
+ganska

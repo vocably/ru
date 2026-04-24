@@ -1,1 +1,2 @@
-["kev ua tiav","kev sib koom ua ke"]
+kev ua tiav
+kev sib koom ua ke

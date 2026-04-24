@@ -1,1 +1,2 @@
-["substantiate","justify"]
+substantiate
+justify

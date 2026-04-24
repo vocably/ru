@@ -1,1 +1,3 @@
-["uznawać","przyznawać","rozpoznawać"]
+uznawać
+przyznawać
+rozpoznawać

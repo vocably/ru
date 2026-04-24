@@ -1,1 +1,3 @@
-["apskatīt","izskatīt","uzskatīt"]
+apskatīt
+izskatīt
+uzskatīt

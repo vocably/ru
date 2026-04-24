@@ -1,1 +1,2 @@
-["väheksyä","laiminlyödä"]
+väheksyä
+laiminlyödä

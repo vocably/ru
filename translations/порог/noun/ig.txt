@@ -1,1 +1,3 @@
-["ọnụ ụzọ","mmiri","mbido"]
+ọnụ ụzọ
+mmiri
+mbido

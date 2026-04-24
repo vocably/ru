@@ -1,1 +1,2 @@
-["all-embracing","comprehensive"]
+all-embracing
+comprehensive

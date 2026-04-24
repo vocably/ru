@@ -1,1 +1,2 @@
-["bindoj","mbush mendjen"]
+bindoj
+mbush mendjen

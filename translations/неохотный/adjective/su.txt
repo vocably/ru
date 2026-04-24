@@ -1,1 +1,2 @@
-["embung","horéam"]
+embung
+horéam

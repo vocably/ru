@@ -1,1 +1,2 @@
-["celistvost","integrita"]
+celistvost
+integrita

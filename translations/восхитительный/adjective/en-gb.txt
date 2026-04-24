@@ -1,1 +1,3 @@
-["delightful","exquisite","charming"]
+delightful
+exquisite
+charming

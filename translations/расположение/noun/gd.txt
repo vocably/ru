@@ -1,1 +1,4 @@
-["suidheachadh","òrdugh","toil","sunnd"]
+suidheachadh
+òrdugh
+toil
+sunnd

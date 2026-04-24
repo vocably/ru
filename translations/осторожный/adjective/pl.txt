@@ -1,1 +1,2 @@
-["ostrożny","uważny"]
+ostrożny
+uważny

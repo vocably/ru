@@ -1,1 +1,4 @@
-["asukoht","paigutus","sümpaatia","meeleolu"]
+asukoht
+paigutus
+sümpaatia
+meeleolu

@@ -1,1 +1,2 @@
-["vanrækja","virða að vettugi"]
+vanrækja
+virða að vettugi

@@ -1,1 +1,3 @@
-["handi","garrantzitsu","adierazgarri"]
+handi
+garrantzitsu
+adierazgarri

@@ -1,1 +1,2 @@
-["Stabilität","Beständigkeit"]
+Stabilität
+Beständigkeit

@@ -1,1 +1,2 @@
-["në mënyrë të nënkuptuar","në mënyrë implicite"]
+në mënyrë të nënkuptuar
+në mënyrë implicite

@@ -1,1 +1,3 @@
-["jelentős","tekintélyes","számottevő"]
+jelentős
+tekintélyes
+számottevő

@@ -1,1 +1,2 @@
-["omedelbart","genast"]
+omedelbart
+genast

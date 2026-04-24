@@ -1,1 +1,2 @@
-["ngokubonakalayo","kakhulu"]
+ngokubonakalayo
+kakhulu

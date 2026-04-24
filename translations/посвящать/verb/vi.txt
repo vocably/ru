@@ -1,1 +1,4 @@
-["dành","cống hiến","tiết lộ","phong"]
+dành
+cống hiến
+tiết lộ
+phong

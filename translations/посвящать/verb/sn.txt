@@ -1,1 +1,4 @@
-["kupa","tsaurira","zivisa","gadza"]
+kupa
+tsaurira
+zivisa
+gadza

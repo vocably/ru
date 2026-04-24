@@ -1,1 +1,3 @@
-["besar","penting","bermakna"]
+besar
+penting
+bermakna

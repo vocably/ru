@@ -1,1 +1,4 @@
-["post","tqassim","simpatija","burdata"]
+post
+tqassim
+simpatija
+burdata

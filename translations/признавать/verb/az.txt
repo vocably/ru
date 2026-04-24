@@ -1,1 +1,3 @@
-["tanımaq","etiraf etmək","qəbul etmək"]
+tanımaq
+etiraf etmək
+qəbul etmək

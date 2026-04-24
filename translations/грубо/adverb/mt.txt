@@ -1,1 +1,3 @@
-["bl-aħrax","bejn wieħed u ieħor","goff"]
+bl-aħrax
+bejn wieħed u ieħor
+goff

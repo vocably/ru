@@ -1,1 +1,3 @@
-["gedé","penting","jero"]
+gedé
+penting
+jero

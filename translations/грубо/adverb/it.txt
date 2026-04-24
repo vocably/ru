@@ -1,1 +1,3 @@
-["rudemente","approssimativamente","grossolanamente"]
+rudemente
+approssimativamente
+grossolanamente

@@ -1,1 +1,2 @@
-["subitu","sùbitu"]
+subitu
+sùbitu

@@ -1,1 +1,3 @@
-["mu buryo buteye isoni","hafi","mu buryo butanoze"]
+mu buryo buteye isoni
+hafi
+mu buryo butanoze

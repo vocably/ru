@@ -1,1 +1,4 @@
-["ọnọdụ","ebe","ndokwa","obi"]
+ọnọdụ
+ebe
+ndokwa
+obi

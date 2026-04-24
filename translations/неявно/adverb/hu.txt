@@ -1,1 +1,2 @@
-["burkoltan","implicit módon"]
+burkoltan
+implicit módon

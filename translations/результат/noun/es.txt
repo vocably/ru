@@ -1,1 +1,2 @@
-["resultado","marcador"]
+resultado
+marcador

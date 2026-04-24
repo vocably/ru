@@ -1,1 +1,2 @@
-["visibilmente","notevolmente"]
+visibilmente
+notevolmente

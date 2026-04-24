@@ -1,1 +1,3 @@
-["prag","ujëvarë","kufi"]
+prag
+ujëvarë
+kufi
