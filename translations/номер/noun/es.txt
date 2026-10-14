@@ -1,0 +1,4 @@
+número
+habitación
+ejemplar
+talla

@@ -1,0 +1,5 @@
+fila
+serie
+hilera
+gama
+sucesión

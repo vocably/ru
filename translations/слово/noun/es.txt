@@ -1,0 +1,4 @@
+palabra
+término
+voz
+promesa

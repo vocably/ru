@@ -1,0 +1,4 @@
+geçiş
+köprü
+üstgeçit
+altgeçit

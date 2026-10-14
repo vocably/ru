@@ -1,0 +1,4 @@
+court
+bref
+succinct
+écourté

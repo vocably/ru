@@ -1,0 +1,4 @@
+día
+jornada
+fecha
+cumpleaños

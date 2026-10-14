@@ -1,0 +1,4 @@
+die Zahl
+das Datum
+die Anzahl
+der Numerus

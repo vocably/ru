@@ -1,0 +1,3 @@
+die Nationalität
+die Staatsangehörigkeit
+die Volkszugehörigkeit

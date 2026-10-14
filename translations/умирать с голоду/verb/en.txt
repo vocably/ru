@@ -1,0 +1,3 @@
+starve
+be starving
+be famished

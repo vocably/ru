@@ -1,0 +1,3 @@
+declare
+announce
+proclaim

@@ -1,0 +1,3 @@
+partida
+residuo
+salida

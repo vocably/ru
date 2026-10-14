@@ -1,0 +1,4 @@
+número
+fecha
+cantidad
+cifra

@@ -1,0 +1,4 @@
+all
+every
+any
+everything

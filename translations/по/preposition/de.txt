@@ -1,0 +1,6 @@
+auf (Bewegung auf einer Oberfläche)
+entlang (Bewegung entlang einer Linie)
+nach (Richtung, Verteilung, Meinung)
+gemäß (Übereinstimmung)
+wegen (Grund)
+zu (Ziel, Zweck)

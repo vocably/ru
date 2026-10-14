@@ -1,0 +1,3 @@
+dibujar
+pintar
+trazar

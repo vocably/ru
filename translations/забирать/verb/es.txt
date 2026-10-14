@@ -1,0 +1,4 @@
+recoger
+llevar
+quitar
+detener

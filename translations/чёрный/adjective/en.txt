@@ -1,0 +1,5 @@
+black
+dark
+illegal
+dirty
+menial

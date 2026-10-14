@@ -1,0 +1,4 @@
+company
+firm
+corporation
+society

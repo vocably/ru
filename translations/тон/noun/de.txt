@@ -1,0 +1,4 @@
+der Ton
+die Tonart
+die Klangfarbe
+der Farbton
